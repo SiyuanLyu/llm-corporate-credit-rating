@@ -1,0 +1,5 @@
+.venv/
+.tmp/
+__pycache__/
+data/raw/
+outputs/embeddings.npy

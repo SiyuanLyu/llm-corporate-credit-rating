@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+requests
+sentence-transformers
+# Only needed when actually calling an LLM provider in Step 3:
+# openai
+# anthropic
