@@ -1,0 +1,240 @@
+[
+  {
+    "cik": 886158,
+    "name": "20230930-DK-Butterfly-1, Inc.",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 47129,
+    "name": "HERTZ CORP",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1255474,
+    "name": "Whiting Holdings LLC",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1310067,
+    "name": "SEARS HOLDINGS CORP",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1004980,
+    "name": "PG&E Corp",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1282266,
+    "name": "WINDSTREAM HOLDINGS, INC.",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 84129,
+    "name": "NEW RITE AID, LLC",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 719739,
+    "name": "SVB FINANCIAL GROUP",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1813756,
+    "name": "WeWork Inc.",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1567892,
+    "name": "Keenova Therapeutics plc",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1326428,
+    "name": "Pressburg, LLC",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1349436,
+    "name": "SANDRIDGE ENERGY INC",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 887921,
+    "name": "REVLON INC /DE/",
+    "label": 1,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 216085,
+    "name": "HAVERTY FURNITURE COMPANIES INC",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 764478,
+    "name": "BEST BUY CO INC",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1821159,
+    "name": "EVgo Inc.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1070412,
+    "name": "CNX Resources Corp",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1631463,
+    "name": "Barrel Energy Inc.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 28917,
+    "name": "DILLARD'S, INC.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 18654,
+    "name": "Ameren Illinois Co",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 811156,
+    "name": "CMS ENERGY CORP",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1051512,
+    "name": "TELEPHONE & DATA SYSTEMS INC /DE/",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1304492,
+    "name": "Anterix Inc.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1040130,
+    "name": "PETMED EXPRESS INC",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 715579,
+    "name": "ACNB CORP",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1462120,
+    "name": "Live Oak Bancshares, Inc.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1666291,
+    "name": "Claros Mortgage Trust, Inc.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1680132,
+    "name": "CANNABIS SUISSE CORP.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1430306,
+    "name": "Tonix Pharmaceuticals Holding Corp.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1498382,
+    "name": "TuHURA Biosciences, Inc./NV",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1070412,
+    "name": "CNX Resources Corp",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1631463,
+    "name": "Barrel Energy Inc.",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1652561,
+    "name": "DSwiss Inc",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  },
+  {
+    "cik": 1840199,
+    "name": "Waldencast plc",
+    "label": 0,
+    "prompt_version": "v1.0",
+    "status": "not_run_no_api_key"
+  }
+]
