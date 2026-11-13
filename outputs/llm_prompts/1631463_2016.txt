@@ -1,0 +1,23 @@
+# prompt v1.0 | provider None | model n/a
+
+You are a corporate credit analyst. Below are excerpts from the
+Management's Discussion & Analysis and Risk Factors sections of a U.S.
+company's annual report (Form 10-K). Assess the company's credit
+worthiness over the NEXT 12 months from the filing date.
+
+Rules:
+- Use ONLY the information in the excerpts. Do not use outside knowledge
+  about this company or what happened to it later.
+- Quote evidence verbatim from the excerpts.
+- Return ONLY a JSON object with this schema:
+{"rating": "<one of AAA, AA, A, BBB, BB, B, CCC, CC, C, D>",
+  "pd_1y": <your estimated 1-year probability of default, 0 to 1>,
+  "outlook": "<positive|stable|negative>",
+  "evidence": ["<verbatim quote>", "<verbatim quote>"],
+  "key_risks": ["<short phrase>", "<short phrase>"]}
+
+=== MD&A EXCERPT ===
+Management's Discussion and Analysis of Financial Condition and Results of Operation Results of Operations The following results of operations, cash flows and changes in our financial position are for years ended September 30, 2016 and 2015. The Company had no revenue for the years ended September 30, 2016 and 2015. Expenses during the years ended September 30, 2016 were $33,339 and $37,274 for 2015. The decrease in expenses in 2016 was due to legal and accounting fees plus filing and consulting fees in 2016 being lower than for the same period in 2015. Liquidity and Capital Resources As of September 30, 2016, the Company had an accumulative deficit of $107,372 and $300 in cash. Cash used in operating activities was $22,084 for the year ended September 30, 2016 and $37,843 for 2015. The Company provided by financing activities was $22,290 which included advance from our director was $3,340, sale of common stock of $18,950. We were organized as a vehicle to investigate and, if such investigation warrants, acquire a target company or business seeking the perceived advantages of being a publicly held corporation. Our principal business objective for the next 12 months and beyond such time will be to achieve long-term growth potential through a combination with a business rather than immediate, short-term earnings. We will not restrict our potential candidate target companies to any specific business, industry or geographical location and, thus, may acquire any type of business. We do not currently engage in any business activities that provide cash flow. The costs of investigating and analyzing business combinations for the next 12 months and beyond such time will be paid with amounts to be loaned to or invested in us by our stockholders or other investors. We believe we will be able to meet these costs through amounts, as necessary, to be loaned to or invested in us by our stockholder plus the placement of common stock for cash. 9 Off-Balance Sheet Arrangements The Company does not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on the Company's financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. Contractual Obligations As a "smaller reporting company" as defined by Item 10 of Regulation S-K, the Company is not required to provide this information. Item 7A: 
+
+=== RISK FACTORS EXCERPT ===
+
