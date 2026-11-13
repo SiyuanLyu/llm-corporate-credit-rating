@@ -1,0 +1,17 @@
+{
+  "model": "Ratio logistic (Altman-style features)",
+  "n": 34,
+  "n_cases": 13,
+  "loocv": {
+    "auc": 0.6813186813186813,
+    "ks": 0.47619047619047616
+  },
+  "features": [
+    "interest_coverage",
+    "leverage",
+    "roa",
+    "current_ratio",
+    "equity_ratio",
+    "log_assets"
+  ]
+}
