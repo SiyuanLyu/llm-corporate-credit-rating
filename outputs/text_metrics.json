@@ -1,0 +1,13 @@
+{
+  "model": "MD&A embeddings (sentence-transformers/all-MiniLM-L6-v2) + logistic",
+  "n": 34,
+  "n_cases": 13,
+  "embedding_loocv": {
+    "auc": 0.6593406593406594,
+    "ks": 0.3296703296703297
+  },
+  "lexicon_loocv": {
+    "auc": 0.5347985347985349,
+    "ks": 0.17582417582417587
+  }
+}
