@@ -1,0 +1,115 @@
+{
+ "cik": "1498382",
+ "name": "TuHURA Biosciences, Inc./NV",
+ "filing_date": "2020-09-18",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 27358,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.446,
+   "passages": [
+    {
+     "char_start": 2000,
+     "char_end": 3200,
+     "score": 0.0897,
+     "query": "covenants",
+     "text": " Columbia, Canada corporations. Callco and Exchangeco were formed to facilitate the Reverse Acquisition. In connection with the merger described below, the Company is also the parent company of Adgero Biopharmaceuticals, Inc., formerly a wholly-owned subsidiary of Adgero. References to \"we\", \"us\", and \"our\", refer to Kintara Therapeutics, Inc. and our wholly-owned subsidiaries, Del Mar (BC), Adgero, Adgero Biopharmaceuticals, Inc., Callco and Exchangeco. Corporate History We are a Nevada corporation formed on June 24, 2009 under the name Berry Only, Inc. On January 25, 2013, we entered into and closed an exchange agreement (the \"Exchange Agreement\"), with Del Mar Pharmaceuticals (BC) Ltd. (\"Del Mar (BC)\"), 0959454 B.C. Ltd. (\"Callco\"), and 0959456 B.C. Ltd. (\"Exchangeco\") and the security holders of Del Mar (BC). Upon completion of the Exchange Agreement, Del Mar (BC) became our wholly-owned subsidiary (the \"Reverse Acquisition\"). On June 10, 2020, we entered into an Agreement and Plan of Merger and Reorganization (the \"Merger Agreement\"), dated as of June 9, 2020, by and among Adgero Acquisition Corp., our wholly-owned subsidiary incorporated in the State of Delaware (\"Merger Sub\""
+    },
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.0689,
+     "query": "covenants",
+     "text": " of Merger and Reorganization (the \"Merger Agreement\"), dated as of June 9, 2020, by and among Adgero Acquisition Corp., our wholly-owned subsidiary incorporated in the State of Delaware (\"Merger Sub\"), and Adgero. On August 19, 2020, upon the terms and subject to the conditions set forth in the Merger Agreement, Merger Sub merged with and into Adgero (the \"Merger\"), the separate corporate existence of Merger Sub ceased and Adgero continued its existence under Delaware law as the surviving corporation in the Merger and became our direct, wholly-owned subsidiary. As a result of the Merger, each issued and outstanding share of Adgero common stock, par value $0.0001 per share (the \"Adgero Common Stock\") (other than treasury shares held by Adgero), was converted automatically into the right to receive 1.5740 shares (the \"Exchange Ratio\") of our common stock, and cash in lieu of any fractional shares. Also, each outstanding warrant to purchase Adgero Common Stock was converted into a warrant exercisable for that number of shares of our common stock equal to the product of (x) the aggregate number of shares of Adgero Common Stock for which such warrant was exercisable and (y) the Exchang"
+    },
+    {
+     "char_start": 8000,
+     "char_end": 9200,
+     "score": 0.1313,
+     "query": "liquidity",
+     "text": "ty to us. Selected Annual Information The financial information reported herein has been prepared in accordance with accounting principles generally accepted in the United States. Our functional currency at June 30, 2020 and June 30, 2019 is the US$. The following tables represent selected financial information for us for the periods presented. Selected Balance Sheet data June 30, 2020 June 30, 2019 $ $ Cash and cash equivalents 2,392,402 3,718,758 Working capital 176,161 1,955,468 Total assets 2,938,137 4,037,255 Total stockholders' equity 263,214 1,967,530 63 Selected Statement of Operations data For the years ended June 30, 2020 June 30, 2019 $ $ Expenses Research and development 3,630,024 3,662,056 General and administrative 4,514,520 4,736,440 Merger costs 1,053,697 — 9,198,241 8,398,496 Other (income) loss Change in fair value of derivative liabilities — (433,503 ) Derivative liability issue costs — 126,186 Foreign exchange loss 2,923 17,746 Interest income (75,248 ) (60,704 ) (72,325 ) (350,275 ) Net loss for the year 9,125,916 8,048,221 Series B Preferred stock dividend 8,616 80,431 Net loss for the year attributable to common stockholders 9,134,532 8,128,652 Basic and full"
+    },
+    {
+     "char_start": 15000,
+     "char_end": 16200,
+     "score": 0.1847,
+     "query": "cashflow_deterioration",
+     "text": "k as a dividend on the Series B Preferred stock and recognized $8,616 (2019 - $80,431) as a direct increase in accumulated deficit. Liquidity and Capital Resources Comparison of the years ended June 30, 2020 and June 30, 2019 June 30, 2020 $ June 30, 2019 $ Change $ Change % Cash flows from operating activities (7,927,516 ) (6,327,425 ) (1,600,091 ) 25 Cash flows from financing activities 6,601,160 4,074,188 2,526,972 62 Operating Activities Net cash used in operating activities increased to $7,927,516 for the year ended June 30, 2020 from $6,327,425 for the year ended June 30, 2019. During the year ended June 30, 2020 and 2019 we reported net losses of $9,125,916 and $8,048,221, respectively. Changes in adjustments to reconcile net loss to net cash used in operating activities for the year ended June 30, 2020 compared to June 30, 2019 included higher warrants issued for services in the current year due to more warrants being issued in the current year compared to the prior year. Items incurred during the year ended June 30, 2019 but not in the year ended June 30, 2020 include a change in the fair value of derivative liabilities of $433,503 and performance stock unit expense of $52"
+    },
+    {
+     "char_start": 17000,
+     "char_end": 18200,
+     "score": 0.0677,
+     "query": "asset_impairment",
+     "text": "nd common stock purchase warrants. Additionally, we received $51,550 pursuant to the exercise of warrants in the current year. At June 30, 2020, we have incurred $25,000 in deferred financing costs, net of deferred financing costs included in accounts payable, related to the private placement completed in August 2020. During the year ended June 30, 2019, we received $3,362,379 in net proceeds from the completion of a registered direct offering by us of common stock and common stock purchase warrants. We also received $720,165 in net proceeds from the exercise and exchange of warrants. Liquidity Risk and Capital Expenditure Requirements Liquidity Risk (See note 1 to the consolidated financial statements) The consolidated financial statements have been prepared on a going concern basis which assumes that we will continue our operations for the foreseeable future and contemplates the realization of assets and the settlement of liabilities in the normal course of business. 66 For the year ended June 30, 2020, we reported a loss of $9,125,916, and a negative cash flow from operations of $7,927,516. We had an accumulated deficit of $69,721,233 as of June 30, 2020. As of June 30, 2 020, w"
+    },
+    {
+     "char_start": 18000,
+     "char_end": 19200,
+     "score": 0.1705,
+     "query": "going_concern",
+     "text": "ended June 30, 2020, we reported a loss of $9,125,916, and a negative cash flow from operations of $7,927,516. We had an accumulated deficit of $69,721,233 as of June 30, 2020. As of June 30, 2 020, we had cash and cash equivalents on hand of $2,392,402. We are in the clinical stage and have not generated any revenues to-date. We do not have the prospect of achieving revenues until such time that our product candidates are commercialized, or part nered, which may not ever occur. In the future, we will require additional funding to maintain our clinical studies, research and development projects, and for general operations. We may tailor the development programs of our drug candidates based on the a mount of funding we are able to raise in the future. These circumstances had indicated substantial doubt existed about our ability to continue as a going concern. Subsequent to June 30, 2020, we completed a private placement in three closings for gross proceeds of approximately $25 million, or net proceeds of approximately $21.7 million. We believe that based on our current estimates, cash on hand at June 30, 2020 and the proceeds from the private placement, will be sufficient to fund ou"
+    },
+    {
+     "char_start": 19000,
+     "char_end": 20200,
+     "score": 0.2405,
+     "query": "going_concern",
+     "text": "or net proceeds of approximately $21.7 million. We believe that based on our current estimates, cash on hand at June 30, 2020 and the proceeds from the private placement, will be sufficient to fund our planned operations beyond the next year from the date the consolidated financial statements are issued. As a result, substantial doubt about our ability to continue as a going concern has been alleviated. However, the COVID-19 pandemic has created significant economic uncertainty and volatility in the credit and capital markets. The ultimate impact of the COVID-19 pandemic on our ability to raise additional capital in the future is unknown and will depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the duration of the COVID-19 outbreak and any new information which may emerge concerning the severity of the COVID-19 pandemic. The financial statements do not give effect to any adjustments to the amounts and classification of assets and liabilities that may be necessary should we be unable to continue as a going concern. Such adjustments could be material. Our future funding requirements will depend on many factors, including but"
+    },
+    {
+     "char_start": 21000,
+     "char_end": 22200,
+     "score": 0.0951,
+     "query": "debt_maturity",
+     "text": "ient amount of product revenue to finance our cash requirements, which we may never do, we expect to finance future cash needs primarily through public or private equity offerings, or strategic collaborations. The sale of equity and convertible debt securities may result in dilution to our stockholders and certain of those securities may have rights senior to those of our shares of capital stock. If we raise additional funds through the issuance of preferred stock, convertible debt securities or other debt financing, these securities or other debt could contain covenants that would restrict our operations. Any other third-party funding arrangement could require us to relinquish valuable rights. Economic conditions may affect the availability of funds and activity in equity markets. We do not know whether additional funding will be available on acceptable terms, or at all. If we are not able to secure additional funding when needed, we may have to delay, reduce the scope of or eliminate one or more of our clinical trials or research and development programs or make changes to our operating plan. In addition, we may have to seek a partner for one or more of our product candidates at "
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 80000,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.167,
+   "passages": [
+    {
+     "char_start": 16000,
+     "char_end": 17200,
+     "score": 0.1677,
+     "query": "cashflow_deterioration",
+     "text": "net proceeds from the completion of a registered direct offering by us of common stock and common stock purchase warrants. We also received $720,165 in net proceeds from the exercise and exchange of warrants. Liquidity Risk and Capital Expenditure Requirements Liquidity Risk (See note 1 to the consolidated financial statements) The consolidated financial statements have been prepared on a going concern basis which assumes that we will continue our operations for the foreseeable future and contemplates the realization of assets and the settlement of liabilities in the normal course of business. 66 For the year ended June 30, 2020, we reported a loss of $9,125,916, and a negative cash flow from operations of $7,927,516. We had an accumulated deficit of $69,721,233 as of June 30, 2020. As of June 30, 2 020, we had cash and cash equivalents on hand of $2,392,402. We are in the clinical stage and have not generated any revenues to-date. We do not have the prospect of achieving revenues until such time that our product candidates are commercialized, or part nered, which may not ever occur. In the future, we will require additional funding to maintain our clinical studies, research and de"
+    },
+    {
+     "char_start": 17000,
+     "char_end": 18200,
+     "score": 0.2905,
+     "query": "going_concern",
+     "text": "l such time that our product candidates are commercialized, or part nered, which may not ever occur. In the future, we will require additional funding to maintain our clinical studies, research and development projects, and for general operations. We may tailor the development programs of our drug candidates based on the a mount of funding we are able to raise in the future. These circumstances had indicated substantial doubt existed about our ability to continue as a going concern. Subsequent to June 30, 2020, we completed a private placement in three closings for gross proceeds of approximately $25 million, or net proceeds of approximately $21.7 million. We believe that based on our current estimates, cash on hand at June 30, 2020 and the proceeds from the private placement, will be sufficient to fund our planned operations beyond the next year from the date the consolidated financial statements are issued. As a result, substantial doubt about our ability to continue as a going concern has been alleviated. However, the COVID-19 pandemic has created significant economic uncertainty and volatility in the credit and capital markets. The ultimate impact of the COVID-19 pandemic on ou"
+    },
+    {
+     "char_start": 38000,
+     "char_end": 39200,
+     "score": 0.1506,
+     "query": "liquidity",
+     "text": "927,516 ) (6,327,425 ) Cash flows from financing activities Net proceeds from the issuance of shares and warrants 6 6,582,966 3,362,379 Net proceeds from the exercise and exchange of warrants 6 51,550 720,165 Series A preferred stock dividend 4 (8,356 ) (8,356 ) Deferred financing costs 3,9 (25,000 ) — Net cash provided by financing activities 6,601,160 4,074,188 Decrease in cash and cash equivalents (1,326,356 ) (2,253,237 ) Cash and cash equivalents – beginning of year 3,718,758 5,971,995 Cash and cash equivalents – end of year 2,392,402 3,718,758 Supplementary information (note 9) The accompanying notes are an integral part of these consolidated financial statements. 75 Kintara Therapeutics, Inc. (formerly DelMar Pharmaceuticals, Inc.) Notes to Consolidated Financial Statements June 30, 2020 (expressed in US dollars unless otherwise noted) 1 Nature of operations, corporate history, and liquidity risk Nature of operations Kintara Therapeutics, Inc. (formerly DelMar Pharmaceuticals, Inc.) (the \"Company\") is a clinical stage drug development company with a focus on the development of novel cancer therapies for patients with unmet medical needs. The Company is developing two late-st"
+    },
+    {
+     "char_start": 41000,
+     "char_end": 42200,
+     "score": 0.1655,
+     "query": "cashflow_deterioration",
+     "text": "pany and its wholly-owned subsidiaries. Liquidity risk and management plans These consolidated financial statements have been prepared on a going concern basis which assumes that the Company will continue its operations for the foreseeable future and contemplates the realization of assets and the settlement of liabilities in the normal course of business. For the year ended June 30, 2020, the Company reported a loss of $9,125,916, and a negative cash flow from operations of $7,927,516. The Company had an accumulated deficit of $69,721,233 as of June 30, 2020. As of June 30, 2020, the Company has cash and cash equivalents on hand of $2,392,402. The Company is in the clinical stage and has not generated any revenues to-date. The Company does not have the prospect of achieving revenues until such time that its product candidates are commercialized, or partnered, which may not ever occur. In the future, the Company will require additional funding to maintain its clinical trials, research and development projects, and for general operations. The Company may tailor its drug development programs based on the amount of funding the Company is able to raise in the future. These circumstances"
+    },
+    {
+     "char_start": 42000,
+     "char_end": 43200,
+     "score": 0.3234,
+     "query": "going_concern",
+     "text": "nd development projects, and for general operations. The Company may tailor its drug development programs based on the amount of funding the Company is able to raise in the future. These circumstances had indicated substantial doubt existed about the Company's ability to continue as a going concern. Subsequent to June 30, 2020, the Company completed a private placement in three closings for gross proceeds of approximately $25 million, or net proceeds of approximately $21.7 million (note 11). The Company believes that based on its current estimates, the cash on hand at June 30, 2020 of $2,392,402 and the proceeds from the private placement, will be sufficient to fund its planned operations beyond the next year from the date these consolidated financial statements are issued. As a result, substantial doubt about the Company's ability to continue as a going concern has been alleviated. However, the coronavirus (\"COVID-19\") pandemic has created significant economic uncertainty and volatility in the credit and capital markets. The ultimate impact of the COVID-19 pandemic on the Company's ability to raise additional capital in the future is unknown and will depend on future developments,"
+    }
+   ]
+  }
+ }
+}

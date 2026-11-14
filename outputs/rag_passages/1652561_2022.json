@@ -1,0 +1,101 @@
+{
+ "cik": "1652561",
+ "name": "DSwiss Inc",
+ "filing_date": "2022-03-31",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 29359,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.375,
+   "passages": [
+    {
+     "char_start": 6000,
+     "char_end": 7200,
+     "score": 0.0863,
+     "query": "going_concern",
+     "text": "imarily through the implementation of our social media marketing strategy. DSwiss already has a strong relationship with social media (eg. Facebook, Instagram and Wechat). The global presence social media has helped provide to us has been an invaluable resource, and as we continue to expand our business operations and spread our brand awareness, we intend to primarily utilize social media to reach our customers. The benefits of social media are countless, but perhaps the most imperative to our future success is our ability to connect with customers directly, to receive their feedback almost instantaneously. On that note, the feedback we have received from our clients has been overwhelmingly positive, which has helped us to create a robust brand image. While DSwiss has been focused almost exclusively upon pursuing operations within Asia, we do have plans to expand outward and become a household name across the world. Our strategy to do so going forward is by forming partnerships with local companies in various countries that may be willing to stock our products or promote them to their own customers. We believe that by forging strategic relationships and partnerships we can expand o"
+    },
+    {
+     "char_start": 12000,
+     "char_end": 13200,
+     "score": 0.1837,
+     "query": "liquidity",
+     "text": "rease in net profit of $120,233 which is a 400.18% higher comparatively due to higher contribution on revenue and stringent cost control. Taking into the profit for the year ended December 31, 2021, the accumulated loss for the Company has decreased from $1,483,170 to $1,309,711. Liquidity and Capital Resources As of December 31, 2021, we had working capital deficit of $10,674 consisting of cash and cash equivalent of $234,546 as compared to working capital deficit of $142,357 and our cash and cash equivalent of $158,004 as of December 31, 2020. Net cash generated from operating activities for the year ended December 31, 2021 was $251,691 as compared to net cash generated from operating activities of $58,913 for the year ended December 31, 2020. The cash generated from operating activities are mainly derived from higher operating profit. Net cash used in investing activity for the year ended December 31, 2021 was $62,075 as compared to net cash used in investing activity for the year ended, 2020 were $2,045. The cash used in investing activities are mainly for purchase of plant and equipment. Net cash used in financing activities for the year ended December 31, 2021 was $78,951 as "
+    },
+    {
+     "char_start": 13000,
+     "char_end": 14200,
+     "score": 0.1056,
+     "query": "cashflow_deterioration",
+     "text": "nded, 2020 were $2,045. The cash used in investing activities are mainly for purchase of plant and equipment. Net cash used in financing activities for the year ended December 31, 2021 was $78,951 as compared to net cash provided by financing activities $105,143 for the year ended December 31, 2020. The net cash used in financing activities in year 2021 was the repayment to a director of Company, while the net cash provided by financing activities in year 2020 was the advances from a director of Company. The revenues generated from our current business operations alone was sufficient to fund our operations or planned growth. However, we will consider acquiring additional funding to continue to operate our business, and to further expand our business. Sources of additional capital through various financing transactions or arrangements with third parties may include equity or debt financing, bank loans or revolving credit facilities. We may not be successful in locating suitable financing transactions in the time period required or at all, and we may not obtain the capital we require by other means. Our inability to raise additional funds when required may have a negative impact on o"
+    },
+    {
+     "char_start": 15000,
+     "char_end": 16200,
+     "score": 0.0707,
+     "query": "debt_maturity",
+     "text": "payments over lease term. As most of the leases doesn't provide an implicit rate. The company generally use the incremental borrowing rate on the estimated rate of interest for collateralized borrowing over a similar term of the lease payments at commencement date. The operating ROU asset also includes any lease payments made and exclude lease incentives. Lease expense for lease payment is recognized on a straight -line basis over lease term. The Company adopted Public Bank Berhad's base rate lending rate as a reference for discount rate. 27 Leases that transfer substantially all the rewards and risks of ownership to the lessee, other than legal title, are accounted for as finance leases. Substantially all of the risks or benefits of ownership are deemed to have been transferred if any one of the four criteria is met: (i) transfer of ownership to the lessee at the end of the lease term, (ii) the lease containing a bargain purchase option, (iii) the lease term exceeding 75% of the estimated economic life of the leased asset, (iv) the present value of the minimum lease payments exceeding 90% of the fair value. At the inception of a finance lease, the Company as the lessee records an "
+    },
+    {
+     "char_start": 16000,
+     "char_end": 17200,
+     "score": 0.0564,
+     "query": "debt_maturity",
+     "text": "ated economic life of the leased asset, (iv) the present value of the minimum lease payments exceeding 90% of the fair value. At the inception of a finance lease, the Company as the lessee records an asset and an obligation at an amount equal to the present value of the minimum lease payments. The leased asset is amortized over the shorter of the lease term or its estimated useful life if title does not transfer to the Company, while the leased asset is depreciated in accordance with the Company's depreciation policy if the title is to eventually transfer to the Company. The periodic rent payments made during the lease term are allocated between a reduction in the obligation and interest element using the effective interest method in accordance with the provisions of ASC Topic 835-30, \"Imputation of Interest\". Use of estimates In preparing these consolidated financial statements, management makes estimates and assumptions that affect the reported amounts of assets and liabilities in the balance sheets, and revenues and expenses during the periods reported. Actual results may differ from these estimates. Cash and cash equivalents Cash and cash equivalents are carried at cost and rep"
+    },
+    {
+     "char_start": 17000,
+     "char_end": 18200,
+     "score": 0.1136,
+     "query": "liquidity",
+     "text": "e balance sheets, and revenues and expenses during the periods reported. Actual results may differ from these estimates. Cash and cash equivalents Cash and cash equivalents are carried at cost and represent cash on hand, demand deposits placed with banks or other financial institutions and all highly liquid investments with an original maturity of three months or less as of the purchase date of such investments. Revenue recognition In accordance with the Accounting Standard Codification Topic 605 \"Revenue Recognition\" (\"ASC 605\"), the Company recognizes revenue when the following four criteria are met: (1) delivery has occurred or services rendered; (2) persuasive evidence of an arrangement exists; (3) there are no continuing obligations to the customer; and (4) the collection of related accounts receivable is probable. Revenue is measured at the fair value of the consideration received or receivable, net of discounts and taxes applicable to the revenue. Revenue from supplies of beauty products is recognized when title and risk of loss are transferred and there are no continuing obligations to the customer. Title and the risks and rewards of ownership transfer to and accepted by th"
+    },
+    {
+     "char_start": 20000,
+     "char_end": 21200,
+     "score": 0.1177,
+     "query": "asset_impairment",
+     "text": "ry is determined using the first-in, first-out (FIFO) method. Inventory reserve is recorded to write down the cost of inventory to the estimated market value due to slow-moving merchandise and damaged goods, which is dependent upon factors such as historical and forecasted consumer demand, and promotional environment. The Company takes ownership, risks and rewards of the products purchased. Write downs are recorded in cost of revenues in the Condensed Consolidated Statements of Operations and Comprehensive Income. Property and equipment Property and equipment are stated at cost less accumulated depreciation and impairment. Depreciation of plant, equipment and software are calculated on the straight-line method over their estimated useful lives or lease terms generally as follows: Classification Estimated useful lives Computer and software 5 years Furniture and Fittings 5 years Office equipment 10 years Motor vehicle 5 years Intangible assets Intangible assets are stated at cost less accumulated amortization. Intangible assets represented the registration costs of trademarks in Malaysia and Hong Kong which are amortized on a straight-line basis over a useful life of ten years. The C"
+    },
+    {
+     "char_start": 21000,
+     "char_end": 22200,
+     "score": 0.1101,
+     "query": "asset_impairment",
+     "text": "cumulated amortization. Intangible assets represented the registration costs of trademarks in Malaysia and Hong Kong which are amortized on a straight-line basis over a useful life of ten years. The Company follows ASC Topic 350 in accounting for intangible assets, which requires impairment losses to be recorded when indicators of impairment are present and the undiscounted cash flows estimated to be generated by the assets are less than the assets' carrying amounts. There were no impairment losses recorded on intangible assets for the year ended December 31, 2021. Income taxes Income taxes are determined in accordance with the provisions of ASC Topic 740, \" Income Taxes \" (\"ASC Topic 740\"). Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities are measured using enacted income tax rates expected to apply to taxable income in the periods in which those temporary differences are expected to be recovered or settled. Any effect on deferred tax assets and liabil"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 2560,
+   "n_passages": 3,
+   "selected_chars": 2960,
+   "overlap_with_step3_excerpt": 1.0,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.0955,
+     "query": "asset_impairment",
+     "text": "RISK FACTORS We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. ITEM 1B. UNRESOLVED STAFF COMMENTS We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. ITEM 2. PROPERTIES Our principal executive office is located at Unit 18-11, 18-12 & 18-01, Tower A, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200, Kuala Lumpur, Malaysia. This location has been rented by DSwiss Sdn Bhd for a 24-month period from January 1, 2022 to December 31, 2023, for an initial deposit of MYR 67,200 and additional monthly payments in the amount of MYR 16,800 over the course of the lease. The office lease ended on December 31, 2023. In July 2018, the Company obtained a loan in the principal amount of MYR250,000 (approximately $60,479) from Public Bank Berhad, a financial institution in Malaysia, to finance the acquisition of a motor vehicle. The loan bears interest at the base lending rate less 2.38% per annum, is payable in 83 monthly instalments of MYR3,473 (a"
+    },
+    {
+     "char_start": 1000,
+     "char_end": 2200,
+     "score": 0.1291,
+     "query": "liquidity",
+     "text": "ncial institution in Malaysia, to finance the acquisition of a motor vehicle. The loan bears interest at the base lending rate less 2.38% per annum, is payable in 83 monthly instalments of MYR3,473 (approximately $840) each and a final monthly instalment of MYR3,391 (approximately $820) and matures in June 2025. As of December 31, 2021, the Company has an outstanding loan to be settle for aforementioned acquisition of motor vehicle of MYR145,784 (approximately $34,935), of which MYR 41,676 (approximately $9,987) to be settled in 12 instalments in year 2022 and MYR104,108 (approximately $24,948) to be settled in 30 instalments after year 2022. In December 2021, the Company had obtained another loan financing in the principal amount of MYR180,000 (approximately $43,134) from Public Bank Berhad, a financial institution in Malaysia, to finance the acquisition of a motor vehicle. The loan bears interest at the base lending rate less 2.04% per annum, is payable in 60 monthly instalments of MYR3,306 (approximately $792) each and matures in December 2026. As of December 31, 2021, the Company has an outstanding loan to be settle for aforementioned acquisition of motor vehicle of MYR195,054 "
+    },
+    {
+     "char_start": 2000,
+     "char_end": 2560,
+     "score": 0.1522,
+     "query": "liquidity",
+     "text": "YR3,306 (approximately $792) each and matures in December 2026. As of December 31, 2021, the Company has an outstanding loan to be settle for aforementioned acquisition of motor vehicle of MYR195,054 (approximately $46,741), of which MYR39,672 (approximately $9,507) to be settled in 12 instalments in year 2022 and MYR155,382 (approximately $37,235) to be settled in 47 instalments after year 2022. Loan acquired for the acquisition of motor vehicle mentioned above are denominated in MYR, of which subjected to the fluctuation in reporting currency. ITEM 3. "
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "cik": "1813756",
+ "name": "WeWork Inc.",
+ "filing_date": "2023-03-29",
+ "label": 1,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9400,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 7000,
+     "char_end": 8200,
+     "score": 0.0704,
+     "query": "going_concern",
+     "text": "ps are monthly memberships providing an individual with access to participating WeWork locations. WeMemberships are legacy products that provide member user login access to the WeWork member network online or through the mobile application as well as access to service offerings and the right to reserve space on an à la carte basis, among other benefits. Each physical membership, WeWork All Access membership, and other legacy memberships is considered to be one membership. The number of memberships is a key indicator of the adoption of our global membership network, the scale and reach of our network and our ability to fill our locations with members. Memberships also represent monetization opportunities from our current and future service offerings. Memberships are presented in this Form 10-K rounded to the nearest thousand. Memberships can differ from the number of individuals using workspace at our locations for a number of reasons, including members utilizing workspace for fewer individuals than the space was designed to accommodate. As of December 2022, we had 754 thousand total memberships, an increase of 19% from 635 thousand memberships as of December 2021. This increase in "
+    },
+    {
+     "char_start": 16000,
+     "char_end": 17200,
+     "score": 0.123,
+     "query": "liquidity",
+     "text": " public offering and the related execution of the SoftBank Transactions are cash expenses, these are not expected to be recurring after the matters are resolved and they do not represent expenses necessary for our business operations. Adjusted EBITDA is also a key metric used internally by our management to evaluate performance and develop internal budgets and forecasts. Adjusted EBITDA has limitations as an analytical tool, should not be considered in isolation or as a substitute for analyzing our results as reported under GAAP and does not provide a complete understanding of our operating results as a whole. Some of these limitations are: • it does not reflect changes in, or cash requirements for, our working capital needs; • it does not reflect our interest expense or the cash requirements necessary to service interest or principal payments on our debt; • it does not reflect our tax expense or the cash requirements to pay our taxes; • it does not reflect historical capital expenditures or future requirements for capital expenditures or contractual commitments; • although stock-based compensation expenses are non-cash charges, we rely on equity compensation to compensate and ince"
+    },
+    {
+     "char_start": 17000,
+     "char_end": 18200,
+     "score": 0.1404,
+     "query": "cashflow_deterioration",
+     "text": "res or future requirements for capital expenditures or contractual commitments; • although stock-based compensation expenses are non-cash charges, we rely on equity compensation to compensate and incentivize employees, directors and certain consultants, and we may continue to do so in the future; and • although depreciation, amortization and impairments are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and this non-GAAP measure does not reflect any cash requirements for such replacements. Free Cash Flow Because of the limitations of Adjusted EBITDA, as noted above, we also supplement our GAAP results by evaluating Free Cash Flow, a non-GAAP measure. We define \"Free Cash Flow\" as net cash provided by (used in) operating activities less purchases of property, equipment and capitalized software, each as presented in the Company's Consolidated Statements of Cash Flows and calculated in accordance with GAAP. 60 Table of Contents The prior years' financial information has been reclassified to conform to the current year presentation for the aggregation of capitalized software of $47 million, $40 million and $23 million during t"
+    },
+    {
+     "char_start": 18000,
+     "char_end": 19200,
+     "score": 0.1555,
+     "query": "cashflow_deterioration",
+     "text": "he prior years' financial information has been reclassified to conform to the current year presentation for the aggregation of capitalized software of $47 million, $40 million and $23 million during the years ended December 31, 2022, 2021 and 2020, respectively, and purchases of property and equipment into one financial statement line item, \"Purchases of property, equipment and capitalized software\". A reconciliation of net cash provided by (used in) operating activities, the most comparable GAAP measure, to Free Cash Flow is set forth below: Year Ended December 31, (Amounts in millions) 2022 2021 2020 Net cash provided by (used in) operating activities (1) $ (733) $ (1,912) $ (857) Less: Purchases of property, equipment and capitalized software (1) (338) (337) (1,464) Free Cash Flow $ (1,071) $ (2,249) $ (2,321) (1) As presented on our Consolidated Statements of Cash Flows. Free Cash Flow is both a performance measure and a liquidity measure that we believe provides useful information to management and investors about the amount of cash generated by or used in the business. Free Cash Flow is also a key metric used internally by our management to develop internal budgets, forecasts"
+    },
+    {
+     "char_start": 19000,
+     "char_end": 20200,
+     "score": 0.1294,
+     "query": "liquidity",
+     "text": " to management and investors about the amount of cash generated by or used in the business. Free Cash Flow is also a key metric used internally by our management to develop internal budgets, forecasts and performance targets. Free Cash Flow has limitations as an analytical tool, should not be considered in isolation or as a substitute for analyzing our results as reported under GAAP and does not provide a complete understanding of our results and liquidity as a whole. Some of these limitations are: • it only includes cash outflows for purchases of property, equipment and capitalized software and not for other investing cash flow activity or financing cash flow activity; • it is subject to variation between periods as a result of changes in working capital and changes in timing of receipts and disbursements; • although non-cash GAAP straight-line lease costs are non-cash adjustments, these charges generally reflect amounts we will be required to pay our landlords in cash over the lifetime of our leases; and • although stock-based compensation expenses are non-cash charges, we rely on equity compensation to compensate and incentivize employees, directors and certain consultants, and "
+    },
+    {
+     "char_start": 44000,
+     "char_end": 45200,
+     "score": 0.1048,
+     "query": "asset_impairment",
+     "text": "th talent acquisition, mergers and acquisitions, legal, technology research and development teams and related professional fees and other expenses incurred such as growth related recruiting fees, employee relocation costs, due diligence, integration costs, transaction costs, contingent consideration fair value adjustments relating to acquisitions, write-off of previously capitalized costs for which the Company is no longer moving forward with the lease or project and other routine asset impairments and write-offs. We expect that overall SG&A expenses will decrease as a percentage of revenue over time as we continue to execute on our operational restructuring plans aimed to enhance our operating efficiency and leverage the historical investments in people and technology that we have made to support the growth of our global community. Restructuring and Other Related (Gains) Costs and Impairment Expense/(Gain on Sale) of Goodwill, Intangibles and Other Assets See the section entitled \" — Key Factors Affecting Comparability of Our Results—Restructuring and Impairments\" above for details surrounding the components of these financial statement line items. Depreciation and Amortization Ex"
+    },
+    {
+     "char_start": 60000,
+     "char_end": 61200,
+     "score": 0.0631,
+     "query": "debt_maturity",
+     "text": "se cost adjustments in the first half of the life of a lease, when lease cost recorded in accordance with GAAP exceeds cash payments made, and then decreases lease cost in the 74 Table of Contents second half of the life of the lease, when lease cost is less than the cash payments required. The impact of straight-lining of lease cost nets to zero over the life of a lease. The $60 million decrease in lease cost contractually paid or payable was generally due to continued lease terminations and partially offset by amendments during the year ended December 31, 2022. The $13 million decrease in amortization of lease incentives benefit was primarily due to locations that incurred amortization of lease incentive benefits during the year ended December 31, 2021 no longer incurring amortization during the year ended December 31, 2022 due to the lease terminations discussed above. The remaining net decrease in all other location operating expenses consisted of decreases related to bad debt expense, stock-based compensation and parking expense. These decreases were offset by an increase in consumables, operating costs and utilities during the year ended December 31, 2022, driven by an increa"
+    },
+    {
+     "char_start": 79000,
+     "char_end": 80000,
+     "score": 0.1112,
+     "query": "asset_impairment",
+     "text": "is Form 10-K and \" —Key Factors Affecting Comparability of Our Results—Restructuring and Impairments \" above. Impairment expense/(gain on sale) of goodwill, intangibles and other assets Comparison of the years ended December 31, 2022 and 2021 Year ended December 31, Change (Amounts in millions, except percentages) 2022 2021 $ % Impairment expense/(gain on sale) of goodwill, intangibles and other assets $ 625 $ 870 $ (245) (28) % Impact of foreign exchange N/A (23) Constant-currency Impairment expense/(gain on sale) of goodwill, intangibles and other assets $ 625 $ 847 $ (222) (26) % In connection with the operational restructuring program and related changes in the Company's leasing plans discussed above and the impacts on our operations from certain macroeconomic events such as COVID-19 , the conflict between Russia and Ukraine, potential economic recession, rising interest rates, and/or inflation, the Company has recorded impairment expenses on our long-lived assets. Impairment expen"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 80000,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 17000,
+     "char_end": 18200,
+     "score": 0.1348,
+     "query": "covenants",
+     "text": " of 94 Table of Contents January 3, 2023 (the \"Secured Indenture\"), by and among the Issuers, the guarantors party thereto and U.S. Bank Trust Company, National Association, as trustee and collateral agent. The Secured Notes will mature on March 15, 2025 and bear interest (i) until February 15, 2024, at 7.50% per annum, payable semi-annually in cash, and (ii) from and after February 15, 2024 and until maturity, at 11.00% per annum, payable in-kind. The Secured Indenture contains negative covenants that are substantially similar to those included in the Unsecured Indenture, as further described above, subject to certain changes to reflect existing commitments and indebtedness outstanding at the time of entry into the Secured Indenture. Credit Agreement The Company is party to the that certain Credit Agreement, dated as of December 27, 2019 (as amended or otherwise modified from time to time, including by that certain Sixth Amendment to the Credit Agreement, dated as of February 15, 2023 (the \"Sixth Amendment to the Credit Agreement\"), the \"Credit Agreement\"). As of December 31, 2022, the Credit Agreement provided for a $1.25 billion senior tranche letter of credit facility (the \"Sen"
+    },
+    {
+     "char_start": 19000,
+     "char_end": 20200,
+     "score": 0.1455,
+     "query": "covenants",
+     "text": "Amendment to the Credit Agreement, $1.1 billion of standby letters of credit were outstanding under the Senior LC Facility, of which none were drawn. In addition, as of the Sixth Amendment to the Credit Agreement, approximately $100 million of contingent obligations in respect of letters of credit issued under the Senior LC Facility are required to be cash collateralized, in the amount of 105% of the stated amount thereof. On May 10, 2022, the Company and the other parties thereto entered into the Fourth Amendment to the Credit Agreement (the \"Fourth Amendment to the Credit Agreement\") pursuant to which the then existing facilities under the Credit Agreement were amended and subdivided into a $1.25 billion Senior LC Tranche, which was scheduled to decrease to $1.05 billion in February 2023, and the $350 million Junior LC Tranche. The letter of credit under the Junior LC Tranche was issued and drawn for the benefit of WeWork Companies LLC in full upon effectiveness of the Fourth Amendment to the Credit Agreement. At the time of entry into the Fourth Amendment to the Credit Agreement, the termination date of the Junior LC Tranche was November 30, 2023 and the termination date of the "
+    },
+    {
+     "char_start": 50000,
+     "char_end": 51200,
+     "score": 0.2475,
+     "query": "going_concern",
+     "text": "andards The accompanying Consolidated Financial Statements are prepared in accordance with U.S. GAAP applicable to a going concern. This presentation contemplates the realization of assets and the satisfaction of liabilities in the normal course of business and does not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from the outcome of the uncertainties described below. The Consolidated Financial Statements do not include any adjustments to the carrying amounts and classification of assets, liabilities, and reported expenses that may be necessary if the Company were unable to continue as a going concern. In connection with the preparation of the Consolidated Financial Statements pursuant to ASC 250-40, Presentation of Financial Statements — Going Concern (\"ASC 250-40\") , management evaluated whether there are conditions and events, considered in aggregate, that raise substantial doubt about the Company's ability to continue as a going concern within one year after the date that these Consolidated Financial Statements are issued. As further discussed in Note 2 to t"
+    },
+    {
+     "char_start": 51000,
+     "char_end": 52200,
+     "score": 0.3637,
+     "query": "going_concern",
+     "text": "substantial doubt about the Company's ability to continue as a going concern within one year after the date that these Consolidated Financial Statements are issued. As further discussed in Note 2 to the Consolidated Financial Statements, our losses and projected cash needs, combined with our current liquidity level, initially raised substantial doubt about the Company's ability to continue as a going concern. Management's plan to improve the Company's liquidity and successfully alleviate the substantial doubt includes (1) restructuring existing debt and raising additional capital and, (2) taking additional operational restructuring actions furthering the plan that commenced following a change in leadership in 2020. Management believes that the expected impact on our liquidity and cash flows resulting from Management's plan are sufficient to enable the Company to meet its obligations for at least twelve months from the issuance date and alleviate the conditions that initially raised substantial doubt about the Company's ability to continue as a going concern. Our preparation of financial statements in accordance with GAAP requires management to make estimates and assumptions that af"
+    },
+    {
+     "char_start": 60000,
+     "char_end": 61200,
+     "score": 0.1346,
+     "query": "asset_impairment",
+     "text": "ting unit's fair value has fallen below its carrying value, we will perform an interim goodwill impairment test(s), in addition to the annual impairment test. Future impairment tests may result in a goodwill impairment, depending on the outcome of the quantitative impairment test. We would include goodwill impairment charges in impairment expense/(gain on sale) of goodwill, intangibles and other assets in the accompanying Consolidated Statements of Operations. Impairment of Long‑Lived Assets Long‑lived assets, including property and equipment, right-of-use assets, capitalized software, and other finite-lived intangible assets, are evaluated for recoverability when events or changes in circumstances indicate that the asset may have been impaired. In evaluating an asset for recoverability, the Company considers the future cash flows expected to result from the continued use of the asset and the eventual disposition of the asset. If the sum of the expected future cash flows, on an undiscounted basis, is less than the carrying amount of the asset, an impairment loss equal to the excess of the carrying amount over the fair value of the asset is recognized. In connection with operational"
+    }
+   ]
+  }
+ }
+}

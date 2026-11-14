@@ -1,0 +1,101 @@
+{
+ "cik": "1349436",
+ "name": "SANDRIDGE ENERGY INC",
+ "filing_date": "2016-03-30",
+ "label": 1,
+ "sections": {
+  "mda": {
+   "source_chars": 17283,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.625,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.1021,
+     "query": "liquidity",
+     "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations The following discussion and analysis is intended to help the reader understand the Company's business, financial condition, results of operations, liquidity and capital resources. This discussion and analysis should be read in conjunction with other sections of this report, including: \"Business\" in Item 1, \"Selected Financial Data\" in Item 6 and \"Financial Statements and Supplementary Data\" in Item 8. The Company's discussion and analysis includes the following subjects: • Overview; • Results by Segment; • Consolidated Results of Operations; • Liquidity and Capital Resources; • Valuation Allowance; and • Critical Accounting Policies and Estimates. Overview SandRidge Energy, Inc. is an energy company with principal operations in the Mid-Continent region in Oklahoma and Kansas. At December 31, 2015, the Company also owned properties in the Rockies in Colorado, which were acquired during the fourth quarter of 2015, and in west Texas. The Company sold the majority of its Gulf Properties in 2014 and its Permian Basin assets in 2013 and has used the proceeds from those transactions to reduce outstandin"
+    },
+    {
+     "char_start": 1000,
+     "char_end": 2200,
+     "score": 0.1108,
+     "query": "debt_maturity",
+     "text": "ter of 2015, and in west Texas. The Company sold the majority of its Gulf Properties in 2014 and its Permian Basin assets in 2013 and has used the proceeds from those transactions to reduce outstanding long-term debt and fund drilling and development in its core area of focus. See further discussion of these transactions below. The Company also operates businesses and infrastructure systems that are complementary to its primary exploration and production activities, including gas gathering and processing facilities, marketing operations, a saltwater gathering and disposal system and an electrical transmission system. Additionally, until January 2016, the Company operated a drilling and related oilfield services business. Recent Events Senior Credit Facility. During January 2016, the Company borrowed the available capacity under the senior credit facility, or $488.9 million , and such amounts remained outstanding at March 23, 2016 . On March 11, 2016, the administrative agent of the senior credit facility notified the Company that the lenders had elected to reduce the borrowing base to $340.0 million pursuant to a special redetermination. On March 21, 2016, the Company notified the "
+    },
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.0862,
+     "query": "covenants",
+     "text": "ral gas properties and midstream assets located in the Piñon field in the WTO, including the PGC assets acquired in October 2015, to Occidental and was released from all past, current and future claims and obligations under an existing 30-year treating agreement between the companies. As of December 31, 2015, the Company had accrued approximately $109.9 million for penalties associated with shortfalls in meeting its delivery requirements under the agreement since it became effective in late 2012, including $34.9 million incurred for the year ended December 31, 2015. Production, proved reserves, revenues and direct operating expenses for the oil and natural gas properties transferred in the transaction were 1.9 MMBoe, 24.6 MMBoe, $14.6 million and $41.1 million , respectively, as of and for the year ended December 31, 2015. Acquisition of Piñon Gathering Company, LLC . In October 2015, the Company acquired the assets of and terminated a gas gathering agreement with PGC for $48.0 million cash and $78.0 million principal amount of Senior Secured Notes. PGC's assets consist of approximately 370 miles of gathering lines that support the Company's production in the Piñon field in West Te"
+    },
+    {
+     "char_start": 7000,
+     "char_end": 8200,
+     "score": 0.0834,
+     "query": "debt_maturity",
+     "text": "mmon stock. The repurchases and exchanges of the Company's Senior Unsecured Notes and subsequent redemptions of the Company's Convertible Senior Unsecured Notes resulted in an aggregate gain on extinguishment of debt of approximately $623.2 million. During the second quarter of 2015, the Company issued to a holder of its 7.5% Senior Notes due 2021 and 8.125% Senior Notes due 2022, approximately 28.0 million shares of the Company's common stock in exchange for an aggregate $50.0 million principal amount of the notes and as payment for the interest accrued thereon since the last interest payment date. The exchange resulted in a gain on extinguishment of debt of $17.9 million. 2014 and 2013 Divestitures Gulf of Mexico and Gulf Coast Properties. On February 25, 2014, the Company sold subsidiaries that owned the Gulf Properties, for approximately $702.6 million , net of working capital adjustments and post-closing adjustments, and the buyer's assumption of approximately $366.0 million of related asset retirement obligations. The Company retained a 2% overriding royalty interest in certain exploration prospects. The Company used the proceeds from the sale to fund its drilling in the Mid-"
+    },
+    {
+     "char_start": 9000,
+     "char_end": 10200,
+     "score": 0.1057,
+     "query": "liquidity",
+     "text": "Properties included in the Company's results for the years ended December 31, 2014 , and 2013 were as follows: Year Ended December 31, 2014(1) 2013 Production (MBoe) 1,321 10,082 Revenues (in thousands) $ 90,920 $ 627,236 Expenses (in thousands) $ 63,674 $ 491,991 _______________ (1) Includes activity through February 25, 2014, the date of sale. 58 Permian Properties. On February 26, 2013, the Company sold the Permian Properties for $2.6 billion . The Company used a portion of the sale proceeds to fund the redemption of approximately $1.1 billion aggregate principal amount of outstanding senior notes, discussed in \"Liquidity and Capital Resources,\" and used the remaining proceeds to fund its capital expenditures in the Mid-Continent and for general corporate purposes. The Company recorded a non-cash loss on the sale of $398.9 million , of which $71.7 million was allocated to noncontrolling interests. Additionally, the Company settled a portion of its existing oil derivative contracts in February 2013 prior to their respective maturities to reduce volumes hedged in proportion to the anticipated reduction in daily production volumes due to the sale, which resulted in cash payments of"
+    },
+    {
+     "char_start": 10000,
+     "char_end": 11200,
+     "score": 0.0931,
+     "query": "asset_impairment",
+     "text": "n February 2013 prior to their respective maturities to reduce volumes hedged in proportion to the anticipated reduction in daily production volumes due to the sale, which resulted in cash payments of approximately $ 29.6 million . Production, revenues and direct operating expenses of the Permian Properties were as follows as of and for the year ended December 31, 2013: Year Ended December 31, 2013(1) Production (MBoe) 1,148 Revenues (in thousands) $ 68,027 Direct operating expenses (in thousands) $ 17,453 _________________ (1) Includes activity through February 26, 2013, the date of sale. 2015 Operational Activities Operational highlights for 2015 include the following: • Total production for 2015 was comprised of approximately 32.0% oil, 51.2% natural gas and 16.8% NGLs compared to 37.6% oil, 49.3% natural gas and 13.1% NGLs in 2014 . • Reduced the total rigs drilling to four (no rigs drilling disposal wells) at December 31, 2015 from 35 (including four drilling disposal wells) at December 31, 2014. • Drilled 161 wells, excluding salt water disposal wells, in the Mid-Continent area. Mid-Continent properties contributed approximately 26.6 MMBoe, or 88.5% , of the Company's total p"
+    },
+    {
+     "char_start": 14000,
+     "char_end": 15200,
+     "score": 0.2282,
+     "query": "going_concern",
+     "text": "ernatives to restructure its indebtedness. The Company is also focused on cost reductions, including the identification of non-core assets for potential sale. There can be no assurance that any restructuring transaction will occur as a result of such discussions with stakeholders, that the terms of any potential restructuring transaction or other transactions would be acceptable to the Company or that such transactions would be successful. As a result of these uncertainties and the likelihood of a restructuring or reorganization, management has concluded that there is substantial doubt regarding the Company's ability to continue as a going concern as it is currently structured. 60 Results by Segment During the years ended December 31, 2015, 2014 and 2013 the Company operated in three reportable business segments: exploration and production, drilling and oilfield services and midstream services, each of which offer different products and services. The exploration and production segment is engaged in the exploration and production of oil and natural gas properties and includes the activities of the Royalty Trusts. The drilling and oilfield services segment, which was substantially di"
+    },
+    {
+     "char_start": 15000,
+     "char_end": 16200,
+     "score": 0.1317,
+     "query": "cashflow_deterioration",
+     "text": "is engaged in the exploration and production of oil and natural gas properties and includes the activities of the Royalty Trusts. The drilling and oilfield services segment, which was substantially discontinued during January 2016, was engaged in the contract drilling of oil and natural gas wells and provided various oilfield services. The midstream services segment is engaged in the purchasing, gathering, treating and selling of natural gas and coordinates the delivery of electricity for the Company's exploration and production operations in the Mid-Continent. Management evaluates the performance of the Company's business segments based on income (loss) from operations. Results of these measurements provide important information to the Company about the activity, profitability and contributions of each of the Company's lines of business. Results for the Company's business segments for the years ended December 31, 2015 , 2014 and 2013 are discussed below. Exploration and Production Segment The Company generates the majority of its consolidated revenues and cash flow from the production and sale of oil, natural gas and NGLs. The Company's revenues, profitability and future growth de"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 2991,
+   "n_passages": 3,
+   "selected_chars": 3391,
+   "overlap_with_step3_excerpt": 1.0,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.2945,
+     "query": "going_concern",
+     "text": "Risk Factors The Company has engaged advisors to assist with a private restructuring or reorganization under Title 11 of the U.S. Bankruptcy Code in the foreseeable future, which raises substantial doubt about its ability to continue as a going concern. As a result of the impacts to the Company's financial position resulting from declining industry conditions and in consideration of the substantial amount of long-term debt outstanding, the Company has engaged advisors to assist with the evaluation of strategic alternatives, which may include, but not be limited to, seeking a restructuring, amendment or refinancing of existing debt through a private restructuring or reorganization under Chapter 11 of the Bankruptcy Code. However, there can be no assurances that the Company will be able to successfully restructure its indebtedness, improve its financial position or complete any strategic transactions. As a result of these uncertainties and the likelihood of a restructuring or reorganization, management has concluded that there is substantial doubt regarding the Company's ability to continue as a going concern as it is currently structured. As a result, the report of the Company's ind"
+    },
+    {
+     "char_start": 1000,
+     "char_end": 2200,
+     "score": 0.175,
+     "query": "covenants",
+     "text": "ion, management has concluded that there is substantial doubt regarding the Company's ability to continue as a going concern as it is currently structured. As a result, the report of the Company's independent registered public accounting firm that accompanies these consolidated financial statements for the year ended December 31, 2015 contains an explanatory paragraph regarding the substantial doubt about the Company's ability to continue as a going concern, which under the terms of the Company's senior secured revolving credit facility (\"senior credit facility\") may result in an event of default. If the Company does not obtain a waiver of this requirement or otherwise cure this event within 30 calendar days of the issuance of these financial statements, the lenders under the senior credit facility will be able to accelerate maturity of the debt. Any acceleration of the obligations under the senior credit facility would result in a cross-default and potential acceleration of the maturity of the Company's other outstanding long-term debt. These defaults create additional uncertainty associated with the Company's ability to repay its outstanding long-term debt obligations as they bec"
+    },
+    {
+     "char_start": 2000,
+     "char_end": 2991,
+     "score": 0.1366,
+     "query": "debt_maturity",
+     "text": "ty of the Company's other outstanding long-term debt. These defaults create additional uncertainty associated with the Company's ability to repay its outstanding long-term debt obligations as they become due and further reinforces the substantial doubt over the Company's ability to continue as a going concern. Drilling for and producing oil and natural gas are high risk activities with many uncertainties that could adversely affect the Company's business, financial condition or results of operations. Drilling for oil and natural gas can be unprofitable if dry wells are drilled and if productive wells do not produce sufficient revenues to return a profit. Furthermore, even if sufficient amounts of oil or natural gas exist, the Company may damage the potentially productive hydrocarbon bearing formation or experience mechanical difficulties while drilling or completing the well, resulting in a reduction in production from the well or abandonment of the well. Decisions to develop "
+    }
+   ]
+  }
+ }
+}

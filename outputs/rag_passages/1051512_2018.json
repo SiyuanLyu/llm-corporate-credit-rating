@@ -1,0 +1,115 @@
+{
+ "cik": "1051512",
+ "name": "TELEPHONE & DATA SYSTEMS INC /DE/",
+ "filing_date": "2018-02-26",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.021,
+   "passages": [
+    {
+     "char_start": 11000,
+     "char_end": 12200,
+     "score": 0.0889,
+     "query": "covenants",
+     "text": "by and between TDS and BNY, establishing TDS' 7% Senior Notes due 2060, is hereby incorporated by reference to Exhibit 4.1 to TDS' Current Report on Form 8-K dated March 21, 2011. 4.3(e) Sixth Supplemental Indenture dated November 26, 2012 , by and between TDS and BNY, establishing TDS' 5.875% Senior Notes due 2061, is hereby incorporated by reference to Exhibit 4.1 to TDS' Current Report on Form 8-K dated November 26, 2012. 4.4 Revolving Credit Agreement, among TDS, Wells Fargo National Association, as administrative agent, and the other lenders thereto, dated as of June 15, 2016, includ ing Schedules and Exhibits, including the form of the subsidiary Guaranty, is hereby incorporated by reference to Exhibit 4.1 to TDS' Current Report on Form 8-K dated June 15, 2016. 4.5 Revolving Credit Agreement, among U.S. Cellular, Toronto Dominion (Texas) LLC, as administrative agent, and the other lenders thereto, dated as of June 15, 2016, including Schedules and Exhibits, including the form of the sub sidiary Guaranty and Subordination Agreement, is hereby incorporated by reference to Exhibit 4.1 to U.S. Cellular's Form 8-K dated June 15, 2016. 4.6(a) I ndenture for Senior Debt Securities d"
+    },
+    {
+     "char_start": 15000,
+     "char_end": 16200,
+     "score": 0.0751,
+     "query": "debt_maturity",
+     "text": "cked Notes by and among USCC Master Note Trust, USCC Services, LLC and U.S. Bank National Association, dated December 20, 2017, is hereby incorporated by reference to Exhibit 4.2 to U.S. Cellular's Form 8-K dated December 20, 2017. 9.1 Amendment and Restatement (dated April 22, 2005) of Voting Trust Agreement dated Jun e 30, 1989 , is hereby incorporated by reference to the Exhibit filed on Amendment No. 3 to Schedule 13D dated May 2, 2005 , filed by the trustees of such voting trust with respect to TDS Common Shares. 10.1(a)* TDS Amended and Restated 2004 Long-Term Incentive Plan is hereby incorporated by reference to Exhibit 10.1 to TDS' Current Report on Form 8-K dated April 11, 2 005. 10.1(b)* First Amendment to TDS Amended and Restated 2004 Long-Term Incentive Plan is hereby incorporated by reference to Exhibit 10.3 to TDS' Cur rent Report on Form 8-K dated December 10, 2007. 10.1(c)* Second Amendment to TDS Amended and Restated 2004 Long-Term Incentive Plan is hereby incorpor ated by reference to Exhibit 10.4 to TDS' Current Report on Form 8-K dated December 10, 2007. 10.1(d)* Third Amendment to TDS Amended and Restated 2004 Long-Term Incentive Plan is hereby incorporated by "
+    },
+    {
+     "char_start": 16000,
+     "char_end": 17200,
+     "score": 0.0666,
+     "query": "debt_maturity",
+     "text": "d by reference to Exhibit 10.4 to TDS' Current Report on Form 8-K dated December 10, 2007. 10.1(d)* Third Amendment to TDS Amended and Restated 2004 Long-Term Incentive Plan is hereby incorporated by reference to Exhibit 10.1 to TDS' Current Report on Form 8-K dated December 22, 2008. 10.2(a)* Telephone and Data Systems, Inc. 2011 Long-Term Incentive Plan is hereby incorporated by reference to Exhibit B to TDS' Notice of Annual Meeting of Shareholders and Proxy Statement dated April 18, 2014. 10.2(b)* Amendment No. 1 to Telephone and Data Systems, Inc. 2011 Long-Term Incentive Plan is hereby incorporated by reference to Exhibit A to TDS' N otice of Annual Meeting of Shareholders and Proxy statement dated April 18, 2014. 10.3(a)* TDS Supplemental Executive Retirement Plan, as amended and r estated, effective January 1, 2009 , is hereby incorporated by reference to Exhibit 10.1 to TDS' Current Report on Form 8-K dated August 27, 2008. 10.3(b)* Amendment Number One to the Telephone and Data Systems, Inc. Supplemental Executive Retirement Plan, is hereby incorporated by reference to Exhibit 10.2 to Telephone and Data Systems, Inc.'s Current Report on Form 8-K dated March 15, 2012. 10.3"
+    },
+    {
+     "char_start": 28000,
+     "char_end": 29200,
+     "score": 0.0768,
+     "query": "liquidity",
+     "text": " for such interest by the equity method. The partnership's consolidated financial statements were obtained by U.S. Cellular as a limited partner. S- 1 Table of Contents Report of Independent Registered Public Accounting Firm The Partners of Los Angeles SMSA Limited Partnership Opin ion on the Financial Statements We have audited the accompanying consolidated balance sheets of Los Angeles SMSA Limited Partnership and Subsidiary (the Partnership) as of December 31, 2017 and 2016, the related consolidated statements of income and compr ehensive income, changes in partners' capital and cash flows for each of the three years in the period ended December 31, 2017, and the related notes (collectively referred to as the \"consolidated financial statements\"). In our opinion, the consolidated fi nancial statements present fairly, in all material respects, the financial position of the Partnership at December 31, 2017 and 2016, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2017 in conformity with U.S. generally accepted accounting principles. Basis for Opinion These financial statements are the responsibility of the Partnershi"
+    },
+    {
+     "char_start": 39000,
+     "char_end": 40200,
+     "score": 0.0684,
+     "query": "liquidity",
+     "text": "al instruments, deferred purchase price, beneficial interest, accrued expenses and contingencies. Revenue r ecognition – The Partnership offers products and services to customers through bundled arrangements. These arrangements involve multiple deliverables which may include products, services, or a combination of products and services. The Partnership earns revenue primarily by providing access to and usage of its network as well as the sale of equipment. In general, access revenue is billed one month in advance and recognized when earned. Usage revenue is generally billed in arrears and recognized when servi ce is rendered. Equipment revenue associated with the sale of wireless devices and accessories is generally recognized when the products are delivered to and accepted by the customer, as equipment sales is considered to be a separate earnings process from providing wireless services. For agreements involving the resale of third-party services in which the Partnership is considered the primary obligor in the arrangements, the revenue is recorded gross at the time of sale. Under the Verizon device payment pl an program, eligible wireless customers purchase wireless devices unde"
+    },
+    {
+     "char_start": 59000,
+     "char_end": 60200,
+     "score": 0.1045,
+     "query": "cashflow_deterioration",
+     "text": "ssets and liabilities of the VIEs are consolidated when the Partnership is deemed to be the primary beneficiary. The primary beneficiary is the party which has the power to make the decisions that most significantly affect the economic performance of the VIE and the obligation to absorb losses or the right to receive benefits tha t could potentially be significant to the VIE. Recent accounting s tandards – In August 2016, the FASB issued ASU 2016-15, \"Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments . \" This standard update addresses eight specific cash flow issues with the objective of reducing the existing diversity in practice for these issues. Among the updates, this standard update requires cash receipts from payments on a transferor's beneficial in terests in securitized trade receivables to be classified as cash inflows from investing activities. This standard update is effective as of the first quarter of 2018; however, early adoption is permitted. We expect the amendment relating to beneficial int erests in securitization transactions will have an impact on our presentation of collections of the deferred purchase price from sal"
+    },
+    {
+     "char_start": 60000,
+     "char_end": 61200,
+     "score": 0.1301,
+     "query": "cashflow_deterioration",
+     "text": "on is permitted. We expect the amendment relating to beneficial int erests in securitization transactions will have an impact on our presentation of collections of the deferred purchase price from sales of wireless device payment plan agreement receivables in our consolidated statements of cash flows. Upon adoption of this standard update in the first quarter of 2018, we expect to retrospectively reclassify approximately $39,848 of collections of deferred purchase price related to collections from customers from Cash flows from operating activities to Cash flows from invest ing activities in our consolidated statement of cash flows for the year ended December 31, 2017 and $81,670 for the year ended December 31, 2016. S- 10 Table of Contents In June 2016, the FASB issued ASU 2016-13, \"Financial Instruments - Credit Losses (Topic 326): Measurement o f Credit Losses on Financial Instruments.\" This standard update requires that certain financial assets be measured at amortized cost net of an allowance for estimated credit losses such that the net receivable represents the present value of expected cash collection. In addition, this standard update requires that certain financial assets"
+    },
+    {
+     "char_start": 72000,
+     "char_end": 73200,
+     "score": 0.0694,
+     "query": "asset_impairment",
+     "text": "ls, which are empirically derived and demonstrably and statistically sound. The credit risk score measures the likelihoo d that the potential customer will become severely delinquent and be disconnected for non-payment. For a small portion of new customer applications, a traditional credit report is not available from one of the national credit reporting agencies because the potential customer does not have sufficient credit history. In those instances, alternate credit data is used for the risk assessment. Based on the custom credit risk score, each customer is assigned to a credit class, each of which has a specified requir ed down payment percentage , which ranges from zero to 100%, and specified credit limits. Device payment plan agreement receivables originated from customers assigned to credit classes requiring no down payment represent the lowest risk. Device payment plan agreement receivables originated from customers assigned to credit classes requiring a down payment represent a higher risk. S- 12 Table of Contents Subsequent to origination, the Partnership monitors delinquency and write-off experience as key credit quality indicators for its portfolio of device payment p"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 51922,
+   "n_passages": 5,
+   "selected_chars": 5722,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 16000,
+     "char_end": 17200,
+     "score": 0.1417,
+     "query": "cashflow_deterioration",
+     "text": "btain other forms of financing in order to fund potential expenditures. TDS' liquidity would be adversely affect ed if, among other things, TDS is unable to obtain short or long-term financing on acceptable terms, TDS makes significant spectrum license purchases, TDS makes significant business acquisitions, the Los Angeles SMSA Limited Partnership ( LA Partnership ) di scontinues or reduces distributions compared to historical levels , or Federal USF and/or other regulatory support payments decline substantially . In addition, although sales of assets or businesses by TDS have been an important source of liquidity in prio r periods, TDS does not expect a similar level of such sales in the future, which will reduce a source of liquidity for TDS. TDS' credit rating currently is sub-investment grade. TDS has incurred negative free cash flow (defined as Cash flows from operat ing activities less Cash paid for additions t o property, plant and equipment) at times in the past and this will occur in the future if operating results do not improve or capital expenditures are not reduced. TDS may require substantial additional capita l for, among other uses, fund ing day-to-day operating nee"
+    },
+    {
+     "char_start": 17000,
+     "char_end": 18200,
+     "score": 0.155,
+     "query": "liquidity",
+     "text": "ccur in the future if operating results do not improve or capital expenditures are not reduced. TDS may require substantial additional capita l for, among other uses, fund ing day-to-day operating needs including working capital, acquisitions of providers of cable, wireless or wireline telecommunications services, IT services or other businesses, spectrum license or system acquisitions, system de velopment and network capacity expansion, debt service requirements, the repurchase of shares, the payment of dividends, or making additional investments. There can be no assurance that sufficient funds will continue to be available to TDS or its subsidia ries on terms or at prices acceptable to TDS. Insufficient cash flows from operating activities, changes in its credit ratings, defaults of the terms of debt or credit agreements, uncertainty of access to capital, deterioration in the capital markets, red uced regulatory capital at banks which in turn limits their ability to borrow and lend, other changes in the performance of TDS or in market conditions or other factors could limit or restrict the availability of financing on terms and prices acceptable to TDS, which could require TDS to"
+    },
+    {
+     "char_start": 20000,
+     "char_end": 21200,
+     "score": 0.148,
+     "query": "covenants",
+     "text": "bject to prevailing economic and competitive conditions and other factors beyond its control. In addition, TDS' leverage may put it at a competitive disadvantage to some of its competitors that are not as leveraged. The TDS and U.S. Cellular revolving credit facilities, the U.S. Cellular term loan facility and the U.S. Cellular receivables securitization facility require TDS or U.S. Cellular, as applicable, to comply with certain affirmative and negative covenants, including certain f inancial covenants. Depending on actual financial performance of TDS and U.S. Cellular, there is a risk that TDS and/or U.S. Cellular could fail to satisfy the required financial covenants. If TDS or U.S. Cellular breach a financial or other covenant of any of these agreements, it would result in a default under that agreement, and could involve a cross-default under other debt instruments. This could in turn cause the affected lenders to accelerate the repayment of principal and accrued interest on any outstanding debt under such agreements and, if they choose, terminate the facility. If appropriate, TDS and U.S. Cellular may request the applicable lenders for an amendment of financial covenants in t"
+    },
+    {
+     "char_start": 50000,
+     "char_end": 51200,
+     "score": 0.1576,
+     "query": "asset_impairment",
+     "text": " devices that it is required to purchase under such agreements, or if it is unable to sell them at the prices it projects, its business, financial condition or results of operations could be adversely affected. 21 Table of Contents Changes in TDS' enterprise value, changes in the market supply or demand for wireless licenses, wireline or cable markets or IT service providers, adverse developments in the businesses or the industries in which TDS is involved and/or other factors could require TDS to recognize impairme nts in the carrying value of its licenses, goodwill, franchise rights and/or physical assets or require re-evaluation of the indefinite-lived nature of such assets . A large portion of TDS' assets consists of indefinite-lived intangible assets in the form o f licenses, goodwill and franchise rights. TDS also has substantial investments in long-lived assets such as property, plant and equipment. TDS reviews its licenses, goodwill, franchise rights and other long-lived assets for impairment annually or whenev er events or circumstances indicate that the carrying amount of such assets may not be fully recoverable. An impairment loss may need to be recognized to the extent "
+    },
+    {
+     "char_start": 51000,
+     "char_end": 51922,
+     "score": 0.1761,
+     "query": "asset_impairment",
+     "text": " for impairment annually or whenev er events or circumstances indicate that the carrying amount of such assets may not be fully recoverable. An impairment loss may need to be recognized to the extent the carrying value of the assets exceeds the fair value of such assets. The amount of any such impairment loss could be significant and could have an adverse effect on TDS' reported financial results for the period in which the loss is recognized. The estimation of fair values requires assumptions by management about factors that are uncertai n. Different assumptions for these factors could create materially different results. During 2017, TDS recognized impairment on its goodwill related to the HMS and U.S. Cellular reporting segments, and reduced the balance of its goodwill related to those segments to zero. Costs, integration problems or other factors associated with acquisitions, divestitures or exchanges of "
+    }
+   ]
+  }
+ }
+}

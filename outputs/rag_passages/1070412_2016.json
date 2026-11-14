@@ -1,0 +1,87 @@
+{
+ "cik": "1070412",
+ "name": "CNX Resources Corp",
+ "filing_date": "2016-02-05",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.375,
+   "passages": [
+    {
+     "char_start": 34000,
+     "char_end": 35200,
+     "score": 0.0913,
+     "query": "cashflow_deterioration",
+     "text": "s related to the Other Gas segment for the year ended December 31, 2015 is an unrealized gain of $197 million. The unrealized gain represents changes in the fair value of all of the Company's existing gas commodity hedges on a mark-to-market basis. The unrealized gain on commodity derivative instruments is a result of the December 31, 2014 de-designation of all derivative positions as cash flow hedges. Changes in fair value were recorded in Accumulated Other Comprehensive Income prior to de-designation. Production royalty interest gas sales represent the revenues related to the portion of production belonging to royalty interest owners sold by the CONSOL Energy E&P segment. Production royalty interest gas sales revenues were $45 million for the year 62 ended December 31, 2015 compared to $82 million for the year ended December 31, 2014 . The changes in market prices, contractual differences among leases, and the mix of average and index prices used in calculating royalties contributed to the period-to-period decrease . For the Years Ended December 31, 2015 2014 Variance Percent Change Production Royalty Interest Sales Volumes (in billion cubic feet) 23.9 19.9 4.0 20.1 % Average Sal"
+    },
+    {
+     "char_start": 40000,
+     "char_end": 41200,
+     "score": 0.1147,
+     "query": "asset_impairment",
+     "text": "smic activity decrease d by $5 million in the period-to-period comparison, primarily due to cost reduction efforts in the 2015 period. • Land rental costs remained consistent in the period-to-period comparison. • The remaining $3 million decrease related to various transactions that occurred throughout both periods, none of which were individually material. Other corporate expenses were $920 million for the year ended December 31, 2015 compared to $87 million for the year ended December 31, 2014 . The $833 million increase in the period-to-period comparison was made up of the following items: For the Years Ended December 31, (in millions) 2015 2014 Variance Percent Change Impairment of Exploration and Production Properties $ 829 $ — $ 829 100.0 % Idle Rig Expense 19 — 19 100.0 % Severance Expense 5 — 5 100.0 % Stock-Based Compensation 14 17 (3 ) (17.6 )% Bank Fees — 4 (4 ) (100.0 )% Unutilized Firm Transportation and Processing Fees 33 38 (5 ) (13.2 )% Short-Term Incentive Compensation 10 23 (13 ) (56.5 )% Other 10 5 5 100.0 % Total Other Corporate Expenses $ 920 $ 87 $ 833 957.5 % • Impairment of exploration and production properties primarily related to the write down of the Comp"
+    },
+    {
+     "char_start": 41000,
+     "char_end": 42200,
+     "score": 0.1067,
+     "query": "covenants",
+     "text": " 10 23 (13 ) (56.5 )% Other 10 5 5 100.0 % Total Other Corporate Expenses $ 920 $ 87 $ 833 957.5 % • Impairment of exploration and production properties primarily related to the write down of the Company's shallow oil and gas asset values in the second quarter of 2015 including impairments to unproved property. See Note 1 - Significant Accounting Policies in Item 8 of this Form 10-K for additional information. 64 • Idle rig fees are related to the temporary idling of some of the Company's natural gas rigs during the year ended December 31, 2015 in response to market conditions. There were no idle rig fees for the year ended December 31, 2014 . • Severance expense was a result of the Company reorganization that occurred in the 2015 period. There was no such expense in the 2014 period. • Stock-based compensation decrease d $3 million in the period-to-period comparison primarily due to less accelerated expense for retiree eligible employees under our current plan. • Bank fees decreased $4 million due to the termination of the CNX Gas Senior Secured Credit Agreement on June 18, 2014. • Unutilized firm transportation costs represent pipeline transportation capacity the E&P segment has o"
+    },
+    {
+     "char_start": 42000,
+     "char_end": 43200,
+     "score": 0.1384,
+     "query": "covenants",
+     "text": " million due to the termination of the CNX Gas Senior Secured Credit Agreement on June 18, 2014. • Unutilized firm transportation costs represent pipeline transportation capacity the E&P segment has obtained to enable gas production to flow uninterrupted as sales volumes increase, as well as additional processing capacity for natural gas liquids. Unutilized firm transportation and processing fees decrease d $5 million in the period-to-period comparison due to an increase in the utilization of the capacity. • Short-term incentive compensation expense decreased in the period-to-period comparison due to a reduction in payouts in the current period. • Other corporate related expenses increase d $5 million due to various transactions that occurred throughout both periods, none of which were individually material. Interest expense related to the E&P division was $6 million for the year ended December 31, 2015 compared to $9 million for the year ended December 31, 2014 . Interest expense was incurred by the Other gas segment on interest allocated to the E&P division under CONSOL Energy's credit facility. 65 TOTAL COAL DIVISION ANALYSIS for the year ended December 31, 2015 compared to the "
+    },
+    {
+     "char_start": 74000,
+     "char_end": 75200,
+     "score": 0.1372,
+     "query": "liquidity",
+     "text": "s joint venture partners in the prior period. The $10 million decrease was due to various transactions that occurred throughout both periods, none of which were individually material. See Note 11 - Property, Plant and Equipment and Note 24 - Commitments and Contingencies in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for additional information. • Pension settlement expense is required when lump sum distributions made for a given plan year exceed the total of the service and interest costs for that same plan year. Settlement accounting was triggered in both periods. See Note 16 - Pension and Other Postretirement Benefit Plans in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for additional detail. • Revolver modification fees decreased $ 3 million due to an acceleration of previously deferred financing fees in the prior period. • Bank fees decreased $2 million in the period-to-period comparison due to various transactions that occurred throughout both periods, none of which were individually material. • Industrial supplies working capital settlement of $ 6 million is the settlement of working capital "
+    },
+    {
+     "char_start": 75000,
+     "char_end": 76200,
+     "score": 0.1584,
+     "query": "liquidity",
+     "text": "ious transactions that occurred throughout both periods, none of which were individually material. • Industrial supplies working capital settlement of $ 6 million is the settlement of working capital adjustments and other matters in the year ended December 31, 2015 related to the divestiture of the Company's industrial supplies subsidiary in December 2014. • Actuarially-calculated amortization of $6 million was included in the Other division in the year ended December 31, 2015 due to modifications made to the Pension plan in September 2014. Refer to the discussion of total Company long-term liabilities contained in the section \"Net (Loss) Income Attributable to CONSOL Energy Shareholders\" of this Annual Report on Form 10-K for more information. • Severance Payments increased $ 8 million due to the Company reorganization that occurred in the year ended December 31, 2015. • Other corporate items remained consistent in the period-to-period comparison. Depreciation, Depletion & Amortization Deprecation, depletion, & amortization decreased $2 million in the period-to-period comparison. The decrease was related to the divestiture of the Company's industrial supplies subsidiary in Decembe"
+    },
+    {
+     "char_start": 76000,
+     "char_end": 77200,
+     "score": 0.1511,
+     "query": "debt_maturity",
+     "text": "n Deprecation, depletion, & amortization decreased $2 million in the period-to-period comparison. The decrease was related to the divestiture of the Company's industrial supplies subsidiary in December 2014. 75 Loss on Debt Extinguishment Loss on debt extinguishment of $68 million was recognized in the year ended December 31, 2015 due to the partial purchase of the 8.25% senior notes that were due in 2020 at an average price equal to 104.6% of the principal amount, and the partial purchase of the 6.375% senior notes that were due in 20121 at an average price equal to 105.0% of the principal amount. Loss on debt extinguishment of $95 million was recognized in the year ended December 31, 2014 related to the early extinguishment of debt due to the purchase of all of the 8.00% senior notes that were due in 2017 at an average premium of 104.0% of the principal amount, and the partial purchase of the 8.25% senior notes that were due in 2020 at an average premium of 107.5% of the principal amount. Interest Expense Interest expense of $190 million was recognized in the year ended December 31, 2015 compared to $215 million in the year ended December 31, 2014 . The $25 million decrease was p"
+    },
+    {
+     "char_start": 77000,
+     "char_end": 78200,
+     "score": 0.0851,
+     "query": "cashflow_deterioration",
+     "text": "ount. Interest Expense Interest expense of $190 million was recognized in the year ended December 31, 2015 compared to $215 million in the year ended December 31, 2014 . The $25 million decrease was primarily due to the partial payoff of the 2020 and 2021 bonds in the year ended December 31, 2015 and the early payoff of the 2017 bonds issued in March 2015 and the 2022 bonds issued in April and August 2014. The decrease was offset, in part, by interest on short-term borrowings. Income Taxes The effective income tax rate was 26.9% for the year ended December 31, 2015 compared to 7.7% for the year ended December 31, 2014 . The effective rates for the years ended December 31, 2015 and 2014 were calculated using the annual effective rate projections on recurring earnings and include tax liabilities related to certain discrete transactions. For the year ended December 31, 2015 , CONSOL Energy recognized certain tax benefits related to a prior-year tax provision. In order to maximize cash flow, CONSOL Energy elected to take bonus depreciation upon filing the 2014 tax return. As a result, CONSOL Energy realized a cash refund of $24 million for 2014. The bonus depreciation also created a ne"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 1104,
+   "n_passages": 1,
+   "selected_chars": 1104,
+   "overlap_with_step3_excerpt": 1.0,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1104,
+     "score": 0.1885,
+     "query": "asset_impairment",
+     "text": "Risk Factors\" in Item 1A of this report for a discussion of the uncertainties in estimating our reserves. CONSOL Energy performs a quantitative annual impairment test, during the fourth quarter of each year, over proved properties using the published NYMEX forward prices, timing, methods and other assumptions consistent with historical periods. During interim periods, management updates these annual tests whenever events or changes in circumstances indicate that a property's carrying amount may not be recoverable. Throughout the first six months of 2015, spot prices and forward curves for natural gas continued to decline from December 31, 2014 prices, which together with other macro-economic factors in the exploration and production industry were deemed indicators of impairment for all of the Company's natural gas assets. Impairment tests require that the Company first compare future undiscounted cash flows by asset group to their respective carrying values. If the carrying amount exceeds the estimated undiscounted future cash flows, a reduction of the carrying amount of the natural gas "
+    }
+   ]
+  }
+ }
+}

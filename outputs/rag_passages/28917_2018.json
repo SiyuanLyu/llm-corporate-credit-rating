@@ -1,0 +1,80 @@
+{
+ "cik": "28917",
+ "name": "DILLARD'S, INC.",
+ "filing_date": "2018-03-30",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 3188,
+   "n_passages": 3,
+   "selected_chars": 3588,
+   "overlap_with_step3_excerpt": 1.0,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.1392,
+     "query": "asset_impairment",
+     "text": "Management's Discussion and Analysis and other statements regarding management's expectations and forecasts for fiscal 2018, statements concerning the opening of new stores or the closing of existing stores, statements concerning capital expenditures and sources of liquidity, statements concerning pension contributions and statements concerning estimated taxes. The Company cautions that forward-looking statements contained in this report are based on estimates, projections, beliefs and assumptions of management and information available to management at the time of such statements and are not guarantees of future performance. The Company disclaims any obligation to update or revise any forward-looking statements based on the occurrence of future events, the receipt of new information, or otherwise. Forward-looking statements of the Company involve risks and uncertainties and are subject to change based on various important factors. Actual future performance, outcomes and results may differ materially from those expressed in forward-looking statements made by the Company and its management as a result of a number of risks, uncertainties and assumptions. Representative examples of th"
+    },
+    {
+     "char_start": 1000,
+     "char_end": 2200,
+     "score": 0.1155,
+     "query": "asset_impairment",
+     "text": "ffer materially from those expressed in forward-looking statements made by the Company and its management as a result of a number of risks, uncertainties and assumptions. Representative examples of those factors include (without limitation) general retail industry conditions and macro-economic conditions; economic and weather conditions for regions in which the Company's stores are located and the effect of these factors on the buying patterns of the Company's customers, including the effect of changes in prices and availability of oil and natural gas; the availability of consumer credit; the impact of competitive pressures in the department store industry and other retail channels including specialty, off-price, discount and Internet retailers; changes in consumer confidence, spending patterns, debt levels and their ability to meet credit obligations; high levels of unemployment; changes in tax legislation; changes in legislation, affecting such matters as the cost of employee benefits or credit card income; adequate and stable availability of materials, production facilities and labor from which the Company sources its merchandise at acceptable pricing; changes in operating expen"
+    },
+    {
+     "char_start": 2000,
+     "char_end": 3188,
+     "score": 0.0879,
+     "query": "cashflow_deterioration",
+     "text": "s or credit card income; adequate and stable availability of materials, production facilities and labor from which the Company sources its merchandise at acceptable pricing; changes in operating expenses, including employee wages, commission structures and related benefits; system failures or data security breaches; possible future acquisitions of store properties from other department store operators; the continued availability of financing in amounts and at the terms necessary to support the Company's future business; fluctuations in LIBOR and other base borrowing rates; potential disruption from terrorist activity and the effect on ongoing consumer confidence; epidemic, pandemic or other public health issues; potential disruption of international trade and supply chain efficiencies; world conflict and the possible impact on consumer spending patterns and other economic and demographic changes of similar or dissimilar nature, and other risks and uncertainties, including those detailed from time to time in our periodic reports filed with the SEC, particularly those set forth under the caption \"Item 1A, Risk Factors\" in this Annual Report. 34 Table of Contents ITEM 7A. "
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 34432,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 23000,
+     "char_end": 24200,
+     "score": 0.1623,
+     "query": "asset_impairment",
+     "text": "t expense, net 62,580 63,059 60,923 Loss on early extinguishment of debt 797 — — Gain on disposal of assets (4,860 ) (905 ) (12,626 ) Asset impairment and store closing charges — 6,500 — Income before income taxes and income on and equity in losses of joint ventures 212,689 257,675 408,784 Income taxes (benefit) (7,800 ) 88,500 140,770 Income on and equity in losses of joint ventures 835 45 1,356 Net income $ 221,324 $ 169,220 $ 269,370 Earnings per common share: Basic $ 7.51 $ 4.93 $ 6.91 Diluted 7.51 4.93 6.91 See notes to consolidated financial statements. F-5 Table of Contents Consolidated Statements of Comprehensive Income Dollars in Thousands Years Ended February 3, 2018 January 28, 2017 January 30, 2016 Net income $ 221,324 $ 169,220 $ 269,370 Other comprehensive income (loss): Amortization of retirement plan and other retiree benefit adjustments (net of tax of ($1,395), $3,686 and $8,574) (4,307 ) 5,981 13,911 Comprehensive income $ 217,017 $ 175,201 $ 283,281 See notes to consolidated financial statements. F-6 Table of Contents Consolidated Statements of Stockholders' Equity Dollars in Thousands, Except Share and Per Share Data Common Stock Accumulated Other Comprehensive "
+    },
+    {
+     "char_start": 26000,
+     "char_end": 27200,
+     "score": 0.1572,
+     "query": "asset_impairment",
+     "text": "2,147 Deferred income taxes (102,065 ) (35,703 ) (35,975 ) Loss (gain) on disposal of assets 1,000 (905 ) (12,626 ) Proceeds from insurance — 3,173 — Gain from insurance proceeds (5,861 ) (1,635 ) — Loss on early extinguishment of debt 797 — — Asset impairment and store closing charges — 6,500 — Changes in operating assets and liabilities: Decrease (increase) in accounts receivable 8,580 (1,092 ) 9,372 Increase in merchandise inventories (57,158 ) (33,436 ) (24 ) (Increase) decrease in other current assets (2,391 ) 8,981 2,911 Decrease in other assets 2,196 5,844 2,939 (Decrease) increase in trade accounts payable and accrued expenses and other liabilities (19,615 ) 156,342 (33,702 ) Decrease in income taxes payable (6,205 ) (6,205 ) (4,186 ) Net cash provided by operating activities 274,285 517,007 450,226 Investing activities: Purchase of property and equipment (130,464 ) (104,824 ) (165,788 ) Proceeds from disposal of assets 11,683 1,150 25,503 Proceeds from insurance 5,114 1,525 — Decrease in restricted cash — — 7,346 Investment in joint venture — (20,000 ) — Distribution from joint venture 3,460 2,500 — Net cash used in investing activities (110,207 ) (119,649 ) (132,939 ) Fin"
+    },
+    {
+     "char_start": 27000,
+     "char_end": 28200,
+     "score": 0.1961,
+     "query": "liquidity",
+     "text": "Decrease in restricted cash — — 7,346 Investment in joint venture — (20,000 ) — Distribution from joint venture 3,460 2,500 — Net cash used in investing activities (110,207 ) (119,649 ) (132,939 ) Financing activities: Principal payments on long-term debt and capital lease obligations (90,483 ) (3,284 ) (5,299 ) Cash dividends paid (9,424 ) (9,787 ) (10,008 ) Purchase of treasury stock (223,013 ) (240,171 ) (500,000 ) Issuance cost of line of credit (1,115 ) — (2,863 ) Net cash used in financing activities (324,035 ) (253,242 ) (518,170 ) (Decrease) increase in cash and cash equivalents (159,957 ) 144,116 (200,883 ) Cash and cash equivalents, beginning of year 346,985 202,869 403,752 Cash and cash equivalents, end of year $ 187,028 $ 346,985 $ 202,869 Non-cash transactions: Accrued capital expenditures $ 23,084 $ 3,453 $ 10,909 Stock awards 2,680 2,671 2,803 Capital lease transactions — — 9,093 Accrued purchases of treasury stock 2,000 6,002 — See notes to consolidated financial statements. F-8 Table of Contents Notes to Consolidated Financial Statements 1. Description of Business and Summary of Significant Accounting Policies Description of Business —Dillard's, Inc. (\"Dillard's\" o"
+    },
+    {
+     "char_start": 29000,
+     "char_end": 30200,
+     "score": 0.1284,
+     "query": "cashflow_deterioration",
+     "text": "pany does not have control. Use of Estimates —The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Significant estimates include inventories, sales return, self-insured accruals, future cash flows for impairment analysis, pension discount rate and taxes. Actual results could differ from those estimates. Seasonality —The Company's business is highly seasonal, and historically the Company has realized a significant portion of its sales, net income and cash flow in the second half of the fiscal year, attributable to the impact of the back-to-school selling season in the third quarter and the holiday selling season in the fourth quarter. Additionally, working capital requirements fluctuate during the year, increasing in the third quarter in anticipation of the holiday season. Cash Equivalents —The Company considers all highly liq"
+    },
+    {
+     "char_start": 30000,
+     "char_end": 31200,
+     "score": 0.1501,
+     "query": "liquidity",
+     "text": "ter. Additionally, working capital requirements fluctuate during the year, increasing in the third quarter in anticipation of the holiday season. Cash Equivalents —The Company considers all highly liquid investments with an original maturity of 3 months or less when purchased or certificates of deposit with no early withdrawal penalty to be cash equivalents. The Company considers receivables from charge card companies as cash equivalents because they settle the balances within 2 to 3 days. Restricted Cash —Restricted cash consists of cash proceeds from the sale of property held in escrow for the acquisition of replacement property under like-kind exchange agreements. The escrow accounts are administered by an intermediary. Pursuant to the like-kind exchange agreements, the cash remains restricted for a maximum of 180 days from the date of the property sale pending the acquisition of replacement property. Changes in restricted cash balances are reflected as an investing activity in the accompanying Consolidated Statements of Cash Flows. Accounts Receivable —Accounts receivable primarily consists of construction receivables of the Company's general contracting construction company, C"
+    }
+   ]
+  }
+ }
+}

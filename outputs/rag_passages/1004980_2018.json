@@ -1,0 +1,115 @@
+{
+ "cik": "1004980",
+ "name": "PG&E Corp",
+ "filing_date": "2018-02-09",
+ "label": 1,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 7000,
+     "char_end": 8200,
+     "score": 0.1119,
+     "query": "cashflow_deterioration",
+     "text": ". PG&E Corporation now expects to pay federal taxes starting in 2020 , although that timing would be impacted by any significant changes to future results of operations . Add itionally, because the revenue reduction is expected to precede the reduction in federal income tax payments, PG&E Corporation's and the Utility's operating cash flows will be negatively impacted resulting in additional financing needs. 51 Summary of Changes in Net Income and Earnings per Share The tables below include a summary reconciliation of PG&E Corporation's consolidated income available for common shareholders and EPS to earnings from operations and EPS based on earnings from operations for the three months and twelve months ended December 31, 2017 compared to the three months and twelve months ended December 31, 2016 and a summary reconciliation of the key drivers of PG&E Corporation's earnings from operations and EPS based on earnings from operations for th e three months and twelve months ended December 31, 2017 compared to the three months and twelve months ended December 31, 2016 . \" Earnings from operations \" is a non-GAAP financial measure and is calculated as income availab le for common shareh"
+    },
+    {
+     "char_start": 11000,
+     "char_end": 12200,
+     "score": 0.088,
+     "query": "asset_impairment",
+     "text": "ts associated with disallowed plant , and PG&E Corporation's charge of $83 million was primarily related to net operating loss carryforwards a nd compensation-related deferred tax assets . ( 3 ) The Utility incu rred costs of $82 million (before the tax impact of $33 million) during the three and twelve months ended December 31, 2017, associated with the Northern California wildfires. This includes charges of $64 million (before the tax impact of $26 million) for the three and twelve months ended December 31, 2017, for the reinstatement of liability insurance coverage and $18 million (before the tax impact of $7 million) during the three and twelve months ended December 31, 2017, for legal and other expenses. (4 ) The Utility incurred costs, net of insurance, of $15 million (before the tax impact of $6 million) and $60 million (before the tax impact of $24 million) during the three and twelve months ended December 31, 2017, respectively, associated with the Butte fire. This includes accrued charges of $350 million (before the tax impact of $143 million) during the twelve months ended December 31, 2017, related to estimated third-party claims. The Utility also incurred charges of $1"
+    },
+    {
+     "char_start": 37000,
+     "char_end": 38200,
+     "score": 0.0903,
+     "query": "asset_impairment",
+     "text": "tomer refunds and fines incurred in 2015 with no corresponding charges in 2016 and approximately $125 million in lower disallowed capital charges associated with the San Bruno Penalty Decision in 2 016. Additionally, the Utility recorded approximately $576 million more in insurance recoveries (in 2016, the Utility recorded $625 million in insurance recoveries related to the Butte fire as compared to $49 million of insurance recoveries for third-part y claims related to the San Bruno accident in 2015 ) . T he Utility's financial condition, results of operations, liquidity, and cash flows could be materially affected by potential losses resulting from the impact of the Northern California wildfires and an y additio nal charges associated with costs related to the Butte fire. (See Item 1A. Risk Factors above and Note 1 3 of the Notes to the Consolidated Financial Statements in Item 8. ) Depreciation, Amortization, and Decommissioning The Utility's depreciation, amortization, and decommissioning expenses increased $ 100 million , or 4% in 2017 compared to 2016 and $ 143 million , or 5% in 2016 compared to 2015 . In 201 7 , the increase was primarily due to the impact of capital additio"
+    },
+    {
+     "char_start": 46000,
+     "char_end": 47200,
+     "score": 0.1641,
+     "query": "liquidity",
+     "text": "nd potential liabilities associated with the Northern California wildfires. ( See Item 1A. Risk Factors and Note 13 of the Notes to the Consolidated Financial Statements in Item 8.) The Utility's ability to fund operations , fi nance capital expenditures, and make distributions to PG&E Corporation depends on the levels of its operating cash flows and access to the capital and credit markets. The CPUC authorizes the Utility's capital structure, the aggregate amount of long-term a nd short-term debt that the Utility may issue , and the revenue requirements the Utility is able to collect to recover its cost of capital. The Utility generally utilizes equity contributions from PG&E Corporation and long-term senior unsecured debt issuan ces to maintain its CPUC-authorized capital structure consisting of 52% equity and 48% debt and preferred sto ck. (See \"R egulatory Matters\" in Item 7. MD&A. ) The Utility relies on short-term debt, including commercial paper, to fund temporary financing ne eds. PG&E Corporation's ability to fund operations, make scheduled principal and interest payments, fund equity contributions to the Utility , and declare and pay dividends primarily depends on the lev"
+    },
+    {
+     "char_start": 50000,
+     "char_end": 51200,
+     "score": 0.1593,
+     "query": "liquidity",
+     "text": "actors.) As a result of the Tax Act, the Utility anticipates an annual reduction to revenue requirements of approximat ely $500 million starting in 2018. In addition to this reduction in future revenue requirements, the Tax Act's other provisions, in particular the elimination of bonus depreciation, are expected to accelerate when PG&E Corporation resumes paying federal taxes; although future taxes will be lower due to the lower federal tax rate. PG&E Corporation now expects to pay federal taxes starting in 2020 , although that timing would be impacted by any significant changes to future results of operations . Additionally, because the revenue redu ction is expected to precede the reduction in federal income tax payments, PG&E Corporation's and the Utility's operating cash flows will be negatively impacted resulting in additional financing need s . Cash and Cash Equivalents Cash and cash equivalents consist of cash and short-term, highly liquid investments with original maturities of three months or less. PG&E Corporation and the Utility maintain separate bank accounts and primarily invest their cash in money market funds. Financial Resources Debt Financings In February 2017, the"
+    },
+    {
+     "char_start": 56000,
+     "char_end": 57200,
+     "score": 0.1114,
+     "query": "covenants",
+     "text": "e end of each fiscal quarter. A t December 31, 2017, PG&E Corporation's and the Utility's total consolidated debt to total consolidate d capitalization was 50% and 49% , respectively . PG&E Corporation's revolving credit facil ity agreement also requires that PG&E Corporation own s , directly or indirectly, at least 80% of the common stock and at least 70% of the voting capital stock of the Utility. In addition, the revolving credit facilities include usual and customary provisions regarding events of default and covenants including covenants limiting liens to those permitted under PG&E Corporation's and the Utility's senior note indentures, mergers, and imposing conditions on the sale of all or substantially all of PG&E C orporation's and the Utility's assets and other fundamental changes. A t December 31, 2017 , PG&E Corporation and the Utility were in compl iance with all covenants under their respective revolving credit facilities. 63 Dividends The Board of Directors of P G&E Corporation and the Utility each has the authority to declare dividends on PG&E Corporation's common stock and the Utility's common and preferred stock, respectively. Dividends are not payable unless and u"
+    },
+    {
+     "char_start": 60000,
+     "char_end": 61200,
+     "score": 0.1084,
+     "query": "cashflow_deterioration",
+     "text": " provided by operating activities $ 5,916 $ 4,344 $ 3,747 Net cash used in investing activities (5,650) (5,526) (5,211) Net cash provided by financing activities 110 1,194 1,468 Net change in cash and cash equivalents $ 376 $ 12 $ 4 Operating Activities The Utility's cash flows from operating activities primarily consist of receipts from customers less payments of operating expenses, other than expenses such as depreciation that do not require the use of cash. During 2017, net cash provided by operating activities increased by $ 1.6 billion compared to 2016. This increase was primarily due to additional electric and natural gas operating revenues collected as authorized by the CPUC in the 2015 GT&S rate cas e, the $400 million refund to natural gas customers in the second quarter of 2016, as required by the San Bruno Penalty Decision (with no corresponding activity in 2017), and the receipt of approximately $300 million of insurance recoveries related to the Butte fire in 2017 as compared to $50 million of insurance recoveries related to the Butte fire during 2016. 64 During 2016 , net cash provided by operating activities in creased by $ 597 million compared to 2015 . This in crea"
+    },
+    {
+     "char_start": 65000,
+     "char_end": 66200,
+     "score": 0.1544,
+     "query": "debt_maturity",
+     "text": "actual commitments at December 31, 2017 : Payment due by period Less Than 1-3 3-5 More Than (in millions) 1 Year Years Years 5 Years Total Utility Long-term debt (1) : $ 1,253 $ 3,117 $ 2,523 $ 25,114 $ 32,007 Purchase obligations (2) : Power purchase agreements: 3,148 6,169 5,539 27,188 42,044 Natural gas supply, transportation, and storage 388 315 186 357 1,246 Nuclear fuel agreements 96 245 130 151 622 Pension and other benefits (3) 351 701 701 351 2,104 Operating leases (2) 44 81 63 138 326 Preferred dividends (4) 14 28 28 - 70 PG&E Corporation Long-term debt (1) : 8 354 - - 362 Total Contractual Commitments $ 5,302 $ 11,010 $ 9,170 $ 53,299 $ 78,781 (1) Includes interest payments over the terms of the debt. Interest is calculated using the applicable interest rate at December 31, 2017 and outstanding principal for each instrument with the terms ending at each instrument's maturity. (See Note 4 of the Notes to the Consolidated Financial Statements in Item 8.) ( 2) See \"Purchase Commitments\" and \"Other Commitments\" in Note 13 of the Notes to the Consolidated Financial Statements in Item 8. (3) See Note 11 of the Notes to the Consolidated Financial Statements in Item 8. Payments "
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 80000,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 6000,
+     "char_end": 7200,
+     "score": 0.1399,
+     "query": "cashflow_deterioration",
+     "text": " ended December 31, 2017 2016 2015 Cash Flows from Operating Activities Net income $ 1,660 $ 1,407 $ 888 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation, amortization, and decommissioning 2,854 2,755 2,612 Allowance for equity funds used during construction (89) (112) (107) Deferred income taxes and tax credits, net 1,254 1,030 693 Disallowed capital expenditures 47 507 407 Other 307 379 326 Effect of changes in operating assets and liabilities: Accounts receivable 67 (473) (177) Butte-related insurance receivable (21) (575) - Inventories (18) (24) 37 Accounts payable 173 180 (55) Butte-related third-party claims (129) 690 - Income taxes receivable/payable 160 (5) 43 Other current assets and liabilities 42 83 (288) Regulatory assets, liabilities, and balancing accounts, net (387) (1,214) (244) Other noncurrent assets and liabilities 57 (219) (355) Net cash provided by operating activities 5,977 4,409 3,780 Cash Flows from Investing Activities Capital expenditures (5,641) (5,709) (5,173) Decrease in restricted cash - 227 64 Proceeds from sales and maturities of nuclear decommissioning trust investments 1,291 1,295 1,268 Purchases of nuc"
+    },
+    {
+     "char_start": 7000,
+     "char_end": 8200,
+     "score": 0.1446,
+     "query": "liquidity",
+     "text": "ies Capital expenditures (5,641) (5,709) (5,173) Decrease in restricted cash - 227 64 Proceeds from sales and maturities of nuclear decommissioning trust investments 1,291 1,295 1,268 Purchases of nuclear decommissioning trust investments (1,323) (1,352) (1,392) Other 23 13 22 Net cash used in investing activities (5,650) (5,526) (5,211) Cash Flows from Financing Activities Net issuances (repayments) of commercial paper, net of discount of $5, $6, and $3 at respective dates (840) (9) 683 Short-term debt financing 750 500 - Short-term debt matured (500) - (300) Proceeds from issuance of long-term debt, net of premium, discount and issuance costs of $32, $17 and $27 at respective dates 2,713 983 1,123 Long-term debt matured or repurchased (1,445) (160) - Common stock issued 395 822 780 Common stock dividends paid (1,021) (921) (856) Other (107) (44) (27) Net cash provided by financing activities (55) 1,171 1,403 Net change in cash and cash equivalents 272 54 (28) Cash and cash equivalents at January 1 177 123 151 Cash and cash equivalents at December 31 $ 449 $ 177 $ 123 90 Supplemental disclosures of cash flow information Cash received (paid) for: Interest, net of amounts capitalize"
+    },
+    {
+     "char_start": 16000,
+     "char_end": 17200,
+     "score": 0.1706,
+     "query": "liquidity",
+     "text": "eferred stock dividends paid (14) (14) (14) Common stock dividends paid (784) (911) (716) Equity contribution from PG&E Corporation 455 835 705 Other (93) (30) (13) Net cash provided by financing activities 110 1,194 1,468 Net change in cash and cash equivalents 376 12 4 Cash and cash equivalents at January 1 71 59 55 Cash and cash equivalents at December 31 $ 447 $ 71 $ 59 97 Supplemental disclosures of cash flow information Cash received (paid) for: Interest, net of amounts capitalized $ (781) $ (717) $ (675) Income taxes, net 162 244 77 Supplemental disclosures of noncash investing and financing activities Capital expenditures financed through accounts payable $ 501 $ 403 $ 440 Terminated capital leases 23 18 - See accompanying Notes to the Consolidated Financial Statements. 98 Pacific Gas and Electric Company CONSOLIDATED STATEMENTS OF SHAREHOLDERS ' EQUITY (in millions) Accumulated Additional Other Total Preferred Common Paid-in Reinvested Comprehensive Shareholders' Stock Stock Capital Earnings Income (Loss) Equity Balance at December 31, 2014 $ 258 $ 1,322 $ 6,514 $ 8,130 $ 5 $ 16,229 Net income - - - 862 - 862 Other comprehensive loss - - - - (2) (2) Equity contribution - -"
+    },
+    {
+     "char_start": 56000,
+     "char_end": 57200,
+     "score": 0.1373,
+     "query": "covenants",
+     "text": "evolving Credit Facilities In May 2017, PG&E Corporation and the Utility each extended the t ermination dates of their existing revolving credit facilities by one year from April 27, 2021 to April 27, 2022. PG&E Corporation's and the Utility's revolving credit facilities may be used for working capital, the repayment of commercial paper, and othe r corporate purposes. Borrowings under each credit agreement (other than swingline loans) will bear interest based on the borrower's credit rating and on each borrower's election of either (1) a London Interbank Offered Rate (\"LIBOR\") plus an applicable margin or (2) the base rate plus an applicable margin. The base rate will equal the higher of the following: the administrative agent's announced base rate, 0.5% above the overnight federal funds rate, and the one-month LIBOR plus an applicable margin. T he borrower's credit rating at the time of borrowing will determine the applicable rate within the following ranges. The applicable margin for LIBOR loans will range between 0.9% and 1.475% under PG&E Corporation's credit agreement and between 0.8% and 1. 275% under the Utility's credit agreement. The applicable margin for base rate loans w"
+    },
+    {
+     "char_start": 57000,
+     "char_end": 58200,
+     "score": 0.1999,
+     "query": "covenants",
+     "text": " LIBOR loans will range between 0.9% and 1.475% under PG&E Corporation's credit agreement and between 0.8% and 1. 275% under the Utility's credit agreement. The applicable margin for base rate loans will range between 0% and 0.475% under PG&E Corporation's credit agreement and between 0% and 0.275% under the Utility's credit agreement. In addition, the facility fee under PG&E Corporation's and the Utility's credit agreements will range between 0.1% and 0.275% and between 0.075% and 0.225%, respectively. PG&E Corporation's and the Utility's revolving credit facilities include usual and customary provisions for revol ving credit facilities of this type, including those regarding events of default and covenants limiting liens to those permitted under their senior note indentures, mergers, sales of all or substantially all of their assets, and other fundamental changes. In addition, the respective revolving credit facilities require that PG&E Corporation and the Utility maintain a ratio of total consolidated debt to total consolidated capitalization of at most 65% as of the end of each fiscal quarter . PG&E Corporation's revolving credit facility agreement also requires that PG&E Corpo"
+    }
+   ]
+  }
+ }
+}

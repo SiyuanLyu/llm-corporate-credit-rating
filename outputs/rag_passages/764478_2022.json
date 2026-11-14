@@ -1,0 +1,115 @@
+{
+ "cik": "764478",
+ "name": "BEST BUY CO INC",
+ "filing_date": "2022-03-18",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 12951,
+   "n_passages": 8,
+   "selected_chars": 9351,
+   "overlap_with_step3_excerpt": 0.698,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.056,
+     "query": "liquidity",
+     "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations, in our Form 10-K for the fiscal year ended January 30, 2021, for discussion of the results of operations for the year ended January 30, 2021, compared to the year ended February 1, 2020, which is incorporated by reference herein. 23 Overview We are driven by our purpose to enrich lives through technology and our vision to personalize and humanize technology solutions for every stage of life . We accomplish this by leveraging our combination of technology and a human touch to meet our customers' everyday needs, whether they come to us online, visit our stores or invite us into their homes. We have operations in the U.S. and Canada. We have two reportable segments: Domestic and International. The Domestic segment is comprised of our operations in all states, districts and territories of the U.S. and our Best Buy Health business, and includes the brand names Best Buy, Best Buy Ads, Best Buy Business, Best Buy Health, CST, Current Health, Geek Squad, Lively, Magnolia, Pacific Kitchen and Home and Yardbird and the domain names bestbuy.com, currenthealth.com, lively.com and yardbird.com. All of our for"
+    },
+    {
+     "char_start": 2000,
+     "char_end": 3200,
+     "score": 0.0962,
+     "query": "cashflow_deterioration",
+     "text": "nge in net sales for a particular period over the comparable prior-period of equivalent length. Comparable sales includes revenue from stores, websites and call centers operating for at least 14 full months. Revenue from online sales is included in comparable sales and represents sales initiated on a website or app, regardless of whether customers choose to pick up product in store, curbside, at an alternative pick-up location or take delivery direct to their homes. Revenue from acquisitions is included in comparable sales beginning with the first full quarter following the first anniversary of the date of the acquisition. Comparable sales also includes credit card revenue, gift card breakage, commercial sales and sales of merchandise to wholesalers and dealers, as applicable. Revenue from stores closed more than 14 days, including but not limited to relocated, remodeled, expanded and downsized stores, or stores impacted by natural disasters, is excluded from comparable sales until at least 14 full months after reopening. Comparable sales excludes the impact of revenue from discontinued operations and the effect of fluctuations in foreign currency exchange rates (applicable to our "
+    },
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.0855,
+     "query": "cashflow_deterioration",
+     "text": "least 14 full months after reopening. Comparable sales excludes the impact of revenue from discontinued operations and the effect of fluctuations in foreign currency exchange rates (applicable to our International segment only). All periods presented apply this methodology consistently. In March 2020, the World Health Organization declared the outbreak of novel coronavirus disease (\"COVID-19\") as a pandemic. All stores that were temporarily closed as a result of COVID-19 or operating a curbside-only operating model are included in comparable sales. On November 24, 2020, we announced our decision to exit our operations in Mexico. As a result, all revenue from Mexico operations has been excluded from our comparable sales calculation beginning in December of fiscal 2021. On May 9, 2019, we acquired all outstanding shares of Critical Signal Technologies, Inc. (\"CST\"). On November 2, 2021, we acquired all outstanding shares of Current Health Ltd. (\"Current Health\"). On November 4, 2021, we acquired all outstanding shares of Two Peaks, LLC d/b/a Yardbird Furniture (\"Yardbird\") . Consistent with our comparable sales policy, the results of CST were included in our comparable sales calculat"
+    },
+    {
+     "char_start": 5000,
+     "char_end": 6200,
+     "score": 0.1302,
+     "query": "asset_impairment",
+     "text": "s certain adjusted or non-GAAP financial measures, such as constant currency, non-GAAP operating income, non-GAAP effective tax rate and non-GAAP diluted earnings per share (\"EPS\"). We believe that non-GAAP financial measures, when reviewed in conjunction with GAAP financial measures, can provide more information to assist investors in evaluating current period performance and in assessing future performance. For these reasons, our internal management reporting also includes non-GAAP financial measures. Generally, our non-GAAP financial measures include adjustments for items such as restructuring charges, goodwill and intangible impairments, price-fixing settlements, gains and losses on certain investments, intangible asset amortization, certain acquisition-related costs and the tax effect of all such items. In addition, certain other items may be excluded from non-GAAP financial measures when we believe doing so provides greater clarity to management and our investors. These non-GAAP financial measures should be considered in addition to, and not superior to or as a substitute for, GAAP financial measures. We strongly encourage investors and shareholders to review our financial st"
+    },
+    {
+     "char_start": 6000,
+     "char_end": 7200,
+     "score": 0.0447,
+     "query": "debt_maturity",
+     "text": "financial measures should be considered in addition to, and not superior to or as a substitute for, GAAP financial measures. We strongly encourage investors and shareholders to review our financial statements and publicly-filed reports in their entirety and not to rely on any single financial measure. Non-GAAP financial measures as presented herein may not be comparable to similarly titled measures used by other companies. 24 In our discussions of the operating results of our consolidated business and our International segment, we sometimes refer to the impact of changes in foreign currency exchange rates or the impact of foreign currency exchange rate fluctuations, which are references to the differences between the foreign currency exchange rates we use to convert the International segment's operating results from local currencies into U.S. dollars for reporting purposes. We also may use the term \"constant currency,\" which represents results adjusted to exclude foreign currency impacts. We calculate those impacts as the difference between the current period results translated using the current period currency exchange rates and using the comparable prior period currency exchange "
+    },
+    {
+     "char_start": 9000,
+     "char_end": 10200,
+     "score": 0.1041,
+     "query": "liquidity",
+     "text": "ned to significantly elevate our customer experience and drive incremental sales. Totaltech leverages our strengths across merchandising, fulfillment, installation, tech support and product repair and is designed to give our customers the confidence that whatever their technology needs are, we will be there to help. Members receive product discounts and priority access to certain in-demand products, free delivery and standard installation, free technical support, up to 24 months of product protection on most purchases with active membership and other benefits. While this new offering introduces pressure to our near-term profitability, we believe Totaltech is a membership experience that customers will love, and in turn, will generate a higher customer lifetime value and drive a larger share of consumer electronics spending to Best Buy. All of this was advanced against a constantly evolving backdrop. During the year we navigated supply chain and transportation challenges, uncertainty as COVID-19 peaks rolled across the country and then, most recently, the disruption from the COVID-19 Omicron wave. Our teams have expertly managed supply chain challenges since the beginning of the pan"
+    },
+    {
+     "char_start": 11000,
+     "char_end": 12200,
+     "score": 0.0812,
+     "query": "going_concern",
+     "text": "sults are driven by our employees across the company. Over the past 24 months, they have flexibly dealt with rapidly changing store operations as we responded to impacts of the pandemic, created safe environments for our customers and worked tirelessly to provide excellent service. In fact, despite all the changes throughout the year, we delivered customer satisfaction improvements both online and in our stores. As we look to the future, we view technology as a permanent and growing need in the home, and we expect technology to constantly evolve as the world's largest technology companies continue to innovate. We are investing now to ensure we pivot to meet the needs of our customers, helping enrich their lives through technology in ways we believe no one else can and retaining our unique position in our industry. 25 Results of Operations Consolidated Results Selected consolidated financial data was as follows ($ in millions, except per share amounts): Consolidated Performance Summary 2022 2021 2020 Revenue $ 51,761 $ 47,262 $ 43,638 Revenue % change 9.5 % 8.3 % 1.8 % Comparable sales % change 10.4 % 9.7 % 2.1 % Gross profit $ 11,640 $ 10,573 $ 10,048 Gross profit as a % of revenue"
+    },
+    {
+     "char_start": 12000,
+     "char_end": 12951,
+     "score": 0.0735,
+     "query": "going_concern",
+     "text": "2022 2021 2020 Revenue $ 51,761 $ 47,262 $ 43,638 Revenue % change 9.5 % 8.3 % 1.8 % Comparable sales % change 10.4 % 9.7 % 2.1 % Gross profit $ 11,640 $ 10,573 $ 10,048 Gross profit as a % of revenue (1) 22.5 % 22.4 % 23.0 % SG&A $ 8,635 $ 7,928 $ 7,998 SG&A as a % of revenue (1) 16.7 % 16.8 % 18.3 % Restructuring charges $ (34) $ 254 $ 41 Operating income $ 3,039 $ 2,391 $ 2,009 Operating income as a % of revenue 5.9 % 5.1 % 4.6 % Net earnings $ 2,454 $ 1,798 $ 1,541 Diluted earnings per share $ 9.84 $ 6.84 $ 5.75 (1) Because retailers vary in how they record costs of operating their supply chain between cost of sales and SG&A, our gross profit rate and SG&A rate may not be comparable to other retailers' corresponding rates. For additional information regarding costs classified in cost of sales and SG&A, refer to Note 1, Summary of Significant Accounting Policies , of the Notes to Consolidated Financial Statements, included in Item 8, "
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 8271,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.944,
+   "passages": [
+    {
+     "char_start": 1000,
+     "char_end": 2200,
+     "score": 0.1001,
+     "query": "cashflow_deterioration",
+     "text": "ties encountered in exerting appropriate management oversight to operations in remote locations. These factors could significantly disrupt our International operations and have a material adverse effect on our revenue and profitability and could lead us to incur material impairments and other exit costs. Financial and Market Risks Failure to effectively manage our costs could have a material adverse effect on our profitability. As discussed above, our revenues are susceptible to volatility from various sources, which can lead to periods of flat or declining revenues. However, some of our operating costs are fixed and/or are subject to multi-year contracts. Some elements of our costs may be higher than our competitors' because of, for example, our extended retail footprint and structure, our hourly pay structure, our differentiated service offerings or our levels of customer service. Accordingly, our ongoing drive to reduce costs and increase efficiency represents a strategic imperative. Failure to successfully manage our costs could have a material adverse impact on our profitability and curtail our ability to fund our growth or other critical initiatives. 17 We are highly dependen"
+    },
+    {
+     "char_start": 2000,
+     "char_end": 3200,
+     "score": 0.0816,
+     "query": "cashflow_deterioration",
+     "text": ". Failure to successfully manage our costs could have a material adverse impact on our profitability and curtail our ability to fund our growth or other critical initiatives. 17 We are highly dependent on the cash flows and net earnings we generate during our fiscal fourth quarter, which includes the majority of the holiday shopping season. A large proportion of our revenue and earnings is generated in the fiscal fourth quarter, which includes the majority of the holiday shopping season. In addition, the holiday shopping season also incorporates many other unpredictable factors, such as the level of competitive promotional activity, new product release activity and customer buying patterns, which makes it difficult to forecast and react to these factors quickly. Unexpected events or developments, such as resurgences of the COVID-19 pandemic, natural or man-made disasters, changes in consumer demand, economic factors, product sourcing issues, cyber-attacks, failure or interruption of management information systems or disruptions in services or systems provided or managed by third-party vendors could significantly disrupt our operations. As a result of these factors, there is risk th"
+    },
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.0884,
+     "query": "asset_impairment",
+     "text": "nagement information systems or disruptions in services or systems provided or managed by third-party vendors could significantly disrupt our operations. As a result of these factors, there is risk that our fiscal fourth quarter and annual results could be adversely affected. Economic, regulatory and other developments could adversely affect our ability to offer attractive promotional financing to our customers and adversely affect the profits we generate from these programs. We offer promotional financing and credit cards issued by third-party banks that manage and directly extend credit to our customers. Customers choosing promotional financing can receive extended payment terms and low- or no-interest financing on qualifying purchases. We believe our financing programs generate incremental revenue from customers who prefer the financing terms to other available forms of payment or otherwise need access to financing in order to make purchases. Approximately 25 % of our fiscal 2022 revenue was transacted using one of the company's branded cards. In addition, we earn profit-share income and share in any losses from certain of our banking partners based on the performance of the pro"
+    },
+    {
+     "char_start": 4000,
+     "char_end": 5200,
+     "score": 0.1937,
+     "query": "liquidity",
+     "text": "venue was transacted using one of the company's branded cards. In addition, we earn profit-share income and share in any losses from certain of our banking partners based on the performance of the programs. The income or loss we earn in this regard is subject to numerous factors, including the volume and value of transactions, the terms of promotional financing offers, bad debt rates, interest rates, the regulatory and competitive environment and expenses of operating the program. Adverse changes to any of these factors could impair our ability to offer these programs to customers and reduce customer purchases and our ability to earn income from sharing in the profits of the programs. Constraints in the capital markets or our vendor credit terms may have a material adverse impact on our liquidity. We need sufficient sources of liquidity to fund our working capital requirements, service our outstanding indebtedness and finance business opportunities. Without sufficient liquidity, we could be forced to curtail our operations or we may not be able to pursue business opportunities. The principal sources of our liquidity are funds generated from operating activities, available cash and "
+    },
+    {
+     "char_start": 5000,
+     "char_end": 6200,
+     "score": 0.1387,
+     "query": "liquidity",
+     "text": "ld be forced to curtail our operations or we may not be able to pursue business opportunities. The principal sources of our liquidity are funds generated from operating activities, available cash and liquid investments, credit facilities, other debt arrangements and trade payables. Our liquidity could be materially adversely impacted if our vendors reduce payment terms and/or impose tighter credit limits. If our sources of liquidity do not satisfy our requirements, we may need to seek additional financing. The future availability of financing will depend on a variety of factors, such as economic and market conditions, the regulatory environment for banks and other financial institutions, the availability of credit, our credit ratings and our reputation with potential lenders. These factors could have a material adverse effect on our costs of borrowing and our ability to pursue business opportunities and threaten our ability to meet our obligations as they become due. Changes in our credit ratings may limit our access to capital and materially increase our borrowing costs. Any future downgrades to our credit ratings and outlook could negatively impact the perception of our credit ri"
+    }
+   ]
+  }
+ }
+}

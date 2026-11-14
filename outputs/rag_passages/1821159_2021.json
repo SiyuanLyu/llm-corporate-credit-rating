@@ -1,0 +1,115 @@
+{
+ "cik": "1821159",
+ "name": "EVgo Inc.",
+ "filing_date": "2021-03-29",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 6000,
+     "char_end": 7200,
+     "score": 0.078,
+     "query": "going_concern",
+     "text": "e of a business combination opportunity which is suitable for an entity to which he or she has then-current fiduciary or contractual obligations, he or she will honor his or her fiduciary or contractual obligations to present such business combination opportunity to such entity, subject to their fiduciary duties under Delaware law. We do not believe, however, that the fiduciary duties or contractual obligations of our officers or directors will materially affect our ability to complete our initial business combination. Item 11. Executive Compensation Other than the 60,000 restricted founder shares transferred to Ms. Frank-Shapiro as compensation for her service as a consultant of CRIS, and any additional compensation for Ms. Frank-Shapiro that the board of CRIS may approve in the future in connection with her consulting arrangement with CRIS, in no event will the Sponsor or any of our existing officers or directors, or any entity with which the Sponsor or our officers are affiliated, be paid any finder's fee, reimbursement, consulting fee, monies in respect of any payment of a loan or other compensation by CRIS prior to, or in connection with any services rendered for any services "
+    },
+    {
+     "char_start": 18000,
+     "char_end": 19200,
+     "score": 0.1832,
+     "query": "liquidity",
+     "text": "quired (\"working capital loans\"). If CRIS completes an initial business combination, CRIS would repay the working capital loans out of the proceeds of the Trust Account released to CRIS. Otherwise, the working capital loans would be repaid only out of funds held outside the Trust Account. In the event that an initial business combination does not close, CRIS may use a portion of proceeds held outside the Trust Account to repay the working capital loans but no proceeds held in the Trust Account would be used to repay the working capital loans. The working capital loans would either be repaid upon consummation of an initial business combination, without interest, or, at the lender's discretion, up to $2.0 million of such working capital loans may be converted into warrants, at a price of $1.00 per warrant, of the post initial business combination entity. The warrants would be identical to the private placement warrants. Except for the foregoing, the terms of such working capital loans, if any, have not been determined and no written agreements exist with respect to such loans. As of December 31, 2020, no working capital loans were outstanding. Investment in the PIPE In connection wit"
+    },
+    {
+     "char_start": 33000,
+     "char_end": 34200,
+     "score": 0.2359,
+     "query": "cashflow_deterioration",
+     "text": " common stock to Sponsor — — 5,750,000 575 24,425 — 25,000 Sale of 23,000,000 Units, net of underwriting discounts and deferred offering costs 23,000,000 2,300 — — 216,835,944 — 216,838,244 Sale of 6,600,000 Private Placement Warrants — — — — 6,600,000 — 6,600,000 Class A common stock subject to possible redemption (21,745,684 ) (2,175 ) — — (217,454,665 ) — (217,456,840 ) Net loss — — — — — (1,006,396 ) (1,006,396 ) Balance – December 31, 2020 1,254,316 $ 125 5,750,000 $ 575 $ 6,005,704 $ (1,006,396 ) $ 5,000,008 The accompanying notes are an integral part of the financial statements. F-5 Table of Contents CLIMATE CHANGE CRISIS REAL IMPACT I ACQUISITION CORPORATION STATEMENT OF CASH FLOWS FOR THE PERIOD FROM AUGUST 4, 2020 (INCEPTION) THROUGH DECEMBER 31, 2020 Cash Flows from Operating Activities: Net loss $ (1,006,396 ) Adjustments to reconcile net loss to net cash used in operating activities: Operating costs paid through promissory note – related party 402 Interest earned on investments held in Trust Account (3,380 ) Changes in operating assets and liabilities: Prepaid expenses (261,496 ) Accrued expenses 723,277 Net cash used in operating activities (547,593 ) Cash Flows from "
+    },
+    {
+     "char_start": 34000,
+     "char_end": 35200,
+     "score": 0.1613,
+     "query": "cashflow_deterioration",
+     "text": "ments held in Trust Account (3,380 ) Changes in operating assets and liabilities: Prepaid expenses (261,496 ) Accrued expenses 723,277 Net cash used in operating activities (547,593 ) Cash Flows from Investing Activities: Investment of cash into Trust Account (230,000,000 ) Net cash used in investing activities (230,000,000 ) Cash Flows from Financing Activities: Proceeds from issuance of Class B common stock to Sponsor 25,000 Proceeds from sale of Units, net of underwriting discounts paid 225,796,000 Proceeds from sale of Private Placement Warrants 6,600,000 Repayment of advances from related party (2,279 ) Proceeds from promissory note – related party 249,598 Repayment of promissory note – related party (250,000 ) Payment of offering costs (880,477 ) Net cash provided by financing activities 231,537,842 Net Change in Cash 990,249 Cash – Beginning of period — Cash – End of period $ 990,249 Non-Cash financing activities: Initial classification of Class A common stock subject to possible redemption $ 218,459,760 Change in value of Class A common stock subject to possible redemption $ (1,002,920 ) Deferred underwriting fee payable $ 8,050,000 Offering costs included in accrued offeri"
+    },
+    {
+     "char_start": 48000,
+     "char_end": 49200,
+     "score": 0.0907,
+     "query": "covenants",
+     "text": " discussed entering into a transaction agreement, reduce the amount of funds in the Trust Account to below the lesser of (1) $10.00 per Public Share and (2) the actual amount per Public Share held in the Trust Account as of the date of the liquidation of the Trust Account due to reductions in the value of the trust assets, less taxes payable, provided that such liability will not apply to claims by a third party or prospective target business who executed a waiver of any and all rights to the monies held in the Trust Account nor will it apply to any claims under the Company's indemnity of the underwriters of the Initial Public Offering against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the \"Securities Act\"). Moreover, in the event that an executed waiver is deemed to be unenforceable against a third party, the Sponsor will not be responsible to the extent of any liability for such third-party claims. The Company will seek to reduce the possibility that the Sponsor will have to indemnify the Trust Account due to claims of creditors by endeavoring to have all vendors, service providers (except the Company's independent registered public a"
+    },
+    {
+     "char_start": 52000,
+     "char_end": 53200,
+     "score": 0.0601,
+     "query": "asset_impairment",
+     "text": " and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of expenses during the reporting period. Making estimates requires management to exercise significant judgment. It is at least reasonably possible that the estimate of the effect of a condition, situation or set of circumstances that existed at the date of the financial statements, which management considered in formulating its estimate, could change in the near term due to one or more future confirming events. Accordingly, the actual results could differ significantly from those estimates. F-9 Table of Contents CLIMATE CHANGE CRISIS REAL IMPACT I ACQUISITION CORPORATION NOTES TO FINANCIAL STATEMENTS DECEMBER 31, 2020 Offering Costs Deferred offering costs consist of legal, accounting and other expenses incurred through the balance sheet date that are directly related to the Initial Public Offering. Offering costs amounting to $13,161,756 were charged to stockholders' equity upon the completion of the Initial Public Offering. Class A Common Stock Subject to Possible Redemption The Company acc"
+    },
+    {
+     "char_start": 58000,
+     "char_end": 59200,
+     "score": 0.0945,
+     "query": "asset_impairment",
+     "text": "mon Stock Redeemable Class A Common Stock, Basic and Diluted 23,000,000 Earnings/Basic and Diluted Redeemable Class A Common Stock $ 0.00 Non-Redeemable Class B Common Stock Numerator: Net Loss minus Redeemable Net Earnings Net Loss $ (1,006,396 ) Redeemable Net Earnings — Non-Redeemable Net Loss $ (1,006,396 ) Denominator: Weighted Average Non-Redeemable Class B Common Stock Non-Redeemable Class B Common Stock, Basic and Diluted 5,473,958 Loss/Basic and Diluted Non-Redeemable Class B Common Stock $ (0.18 ) Note: As of December 31, 2020, basic and diluted shares are the same as there are no non-redeemable securities that are dilutive to the stockholders. Concentration of Credit Risk Financial instruments that potentially subject the Company to concentrations of credit risk consist of a cash account in a financial institution, which, at times, may exceed the Federal Depository Insurance Coverage of $250,000. The Company has not experienced losses on this account and management believes the Company is not exposed to significant risks on such account. Fair Value of Financial Instruments The fair value of the Company's assets and liabilities, which qualify as financial instruments unde"
+    },
+    {
+     "char_start": 65000,
+     "char_end": 66200,
+     "score": 0.1678,
+     "query": "liquidity",
+     "text": "Account. In the event that a Business Combination does not close, the Company may use a portion of proceeds held outside the Trust Account to repay the Working Capital Loans but no proceeds held in the Trust Account would be used to repay the Working Capital Loans. The Working Capital Loans would either be repaid upon consummation of a Business Combination, without interest, or, at the lender's discretion, up to $2,000,000 of such Working Capital Loans may be converted into warrants, at a price of $1.00 per warrant, of the post Business Combination entity. The warrants would be identical to the Private Placement Warrants. Except for the foregoing, the terms of such Working Capital Loans, if any, have not been determined and no written agreements exist with respect to such loans. As of December 31, 2020, no Working Capital Loans were outstanding. F-12 Table of Contents CLIMATE CHANGE CRISIS REAL IMPACT I ACQUISITION CORPORATION NOTES TO FINANCIAL STATEMENTS DECEMBER 31, 2020 NOTE 6. COMMITMENTS AND CONTINGENCIES Risks and Uncertainties Management continues to evaluate the impact of the COVID-19 pandemic and has concluded that while it is reasonably possible that the virus could have"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 24738,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.2,
+   "passages": [
+    {
+     "char_start": 2000,
+     "char_end": 3200,
+     "score": 0.098,
+     "query": "cashflow_deterioration",
+     "text": "transfer to Holdings the Holdings Class B Shares and the right to enter into a tax receivable agreement; and (iv) immediately following item (iii) above, SPAC Sub will contribute to OpCo all of its remaining assets in exchange for the issuance by OpCo to SPAC Sub of the number of OpCo Units equal to the Issued OpCo Units. The Business Combination Agreement contains customary representations, warranties and covenants by the parties thereto and the closing is subject to certain conditions as further described in the Business Combination Agreement. Results of Operations We have neither engaged in any operations nor generated any revenues to date. Our only activities from August 4, 2020 (inception) through December 31, 2020 were organizational activities, those necessary to prepare for and consummate the IPO and identifying a target company for a business combination, as described below. We do not expect to generate any operating revenues until after the completion of our initial business combination. We expect to generate non-operating income in the form of interest income on marketable securities held after the IPO. We incur expenses as a result of being a public company (for legal, "
+    },
+    {
+     "char_start": 4000,
+     "char_end": 5200,
+     "score": 0.1163,
+     "query": "cashflow_deterioration",
+     "text": " placement warrant in a private placement to our stockholders, generating gross proceeds of $6.6 million. Following the IPO, the full exercise of the over-allotment option by the underwriters and the sale of the private placement warrants, a total of $230.0 million was placed in the Trust Account. We incurred $13.2 million in transaction costs, including $4.2 million of underwriting fees, $8.1 million of deferred underwriting fees and $0.9 million of other offering costs. For the period from August 4, 2020 (inception) through December 31, 2020, cash used in operating activities was $0.5 million comprised of net loss of $1.0 million and interest earned on investments held in the Trust Account of $3.4 thousand as offset by operating costs paid through related party promissory note of $402 and the changes in operating assets and liabilities of $0.5 million. 52 Table of Contents As of December 31, 2020, we had cash and investments held in the Trust Account of approximately $230.0 million. We intend to use substantially all of the funds held in the Trust Account, including any amounts representing interest earned on the Trust Account to complete our initial business combination. We may "
+    },
+    {
+     "char_start": 6000,
+     "char_end": 7200,
+     "score": 0.1406,
+     "query": "liquidity",
+     "text": "cuments and material agreements of prospective target businesses, and structure, negotiate and complete an initial business combination. The Sponsor, or an affiliate of the Sponsor, or certain of our officers and directors or their affiliates may, but are not obligated to, extend us working capital loans as may be required in order to fund working capital deficiencies or finance transaction costs in connection with an initial business combination. If we complete an initial business combination, we would repay the working capital loans out of the proceeds of the Trust Account released to us. Otherwise, the working capital loans would be repaid only out of funds held outside the Trust Account. In the event that an initial business combination does not close, we may use a portion of proceeds held outside the Trust Account to repay the working capital loans but no proceeds held in the Trust Account would be used to repay the working capital loans. The working capital loans would either be repaid upon consummation of an initial business combination, without interest, or, at the lender's discretion, up to $2.0 million of such working capital loans may be convertible into warrants of the "
+    },
+    {
+     "char_start": 9000,
+     "char_end": 10200,
+     "score": 0.208,
+     "query": "debt_maturity",
+     "text": " create relationships with unconsolidated entities or financial partnerships, often referred to as \"variable interest entities,\" which would have been established for the purpose of facilitating off-balance sheet arrangements. We have not entered into any off-balance sheet financing arrangements, established any special purpose entities, guaranteed any debt or commitments of other entities, or purchased any non-financial assets. Contractual Obligations We did not have any long-term debt, capital lease obligations, operating lease obligations or long-term liabilities, other than as described below. The underwriters are entitled to a deferred fee of $0.35 per unit, or $8.1 million in the aggregate. The deferred fee will become payable to the underwriters from the amounts held in the Trust Account solely in the event that we consummate an initial business combination, subject to the terms of the underwriting agreement. We entered into various consulting arrangements with several service provider for administrative services and potential target financial analysis and due diligence services to us. These arrangements provide for aggregate monthly fees of approximately $90.0 thousand. Cri"
+    },
+    {
+     "char_start": 10000,
+     "char_end": 11200,
+     "score": 0.0947,
+     "query": "asset_impairment",
+     "text": "rovider for administrative services and potential target financial analysis and due diligence services to us. These arrangements provide for aggregate monthly fees of approximately $90.0 thousand. Critical Accounting Policies The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States of America requires our management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and income and expenses during the periods reported. Actual results could materially differ from those estimates. We have identified the following critical accounting policies: 53 Table of Contents Class A Common Stock Subject to Possible Redemption We account for our Class A common stock subject to possible redemption in accordance with the guidance in Accounting Standards Codification Topic 480 \"Distinguishing Liabilities from Equity.\" Shares of Class A common stock subject to mandatory redemption is classified as a liability instrument and is measured at fair value. Conditionally redeemable common sto"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "cik": "18654",
+ "name": "Ameren Illinois Co",
+ "filing_date": "2018-02-28",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.0,
+   "passages": [
+    {
+     "char_start": 9000,
+     "char_end": 10200,
+     "score": 0.0923,
+     "query": "going_concern",
+     "text": " summer cooling demands, as well as by nuclear refueling and other energy center maintenance outages. Additionally, fluctuations in interest rates and conditions in the capital and credit markets affect our cost of borrowing and our pension and postretirement benefits costs. Almost all of Ameren's revenues are subject to state or federal regulation. 35 Table of Contents This regulation has a material impact on the prices we charge for our services. Our results of operations, financial position, and liquidity are affected by our ability to align our overall spending, both operating and capital, within the frameworks established by our regulators. Ameren Missouri principally uses coal, nuclear fuel, and natural gas for fuel in its electric operations and purchases natural gas for its customers. Ameren Illinois purchases power and natural gas for its customers. The prices for these commodities can fluctuate significantly because of the global economic and political environment, weather, supply, demand, and many other factors. As described below, we have natural gas cost recovery mechanisms for our Illinois and Missouri natural gas distribution service businesses, a purchased power cos"
+    },
+    {
+     "char_start": 60000,
+     "char_end": 61200,
+     "score": 0.0895,
+     "query": "debt_maturity",
+     "text": "ncome, net of expenses, was comparable between years at Ameren, Ameren Missouri, Ameren Illinois, and their respective segments. Interest Charges 2017 versus 2016 Ameren Interest charges increased $ 9 million in 2017 compared with 2016 , as discussed below. 48 Table of Contents Ameren Transmission Interest charges increased $ 9 million , primarily because of an increase in average outstanding debt at Ameren Illinois and ATXI. Ameren Missouri Interest charges decreased $ 4 million , primarily because of a decrease in the average interest rate of debt. Ameren Illinois Interest charges increased $4 million, primarily because of an increase in average outstanding debt, partially offset by a decrease in the average interest rate of debt. Interest charges were comparable between years at each of the Ameren Illinois segments. 2016 versus 2015 Ameren Interest charges increased $ 27 million in 2016 compared with 2015, because of an approximately $475 million increase in average outstanding debt and an increase in the average interest rate of debt at Ameren (parent). Ameren (parent) issued senior unsecured notes in November 2015 to repay lower-cost short-term debt incurred primarily in conne"
+    },
+    {
+     "char_start": 61000,
+     "char_end": 62200,
+     "score": 0.0907,
+     "query": "debt_maturity",
+     "text": " and an increase in the average interest rate of debt at Ameren (parent). Ameren (parent) issued senior unsecured notes in November 2015 to repay lower-cost short-term debt incurred primarily in connection with the funding of increasing ATXI investments. An increase in the average interest rate of debt at Ameren Transmission was partially offset by a decrease in the average interest rate of debt at Ameren Missouri, as discussed below. Interest charges were comparable between years at Ameren Illinois Electric Distribution and Ameren Illinois Natural Gas. Ameren Transmission Interest charges increased $ 23 million , because of an increase in ATXI's and Ameren Illinois' average outstanding debt and an increase in the average interest rate of debt. Ameren Missouri Interest charges decreased $ 8 million , primarily because of a decrease in average outstanding debt. Ameren Illinois Interest charges increased $ 9 million , primarily at Ameren Illinois Transmission, as discussed below. Interest charges were comparable between years at Ameren Illinois Electric Distribution and Ameren Illinois Natural Gas. Ameren Illinois Transmission Interest charges increased $ 9 million , primarily becaus"
+    },
+    {
+     "char_start": 68000,
+     "char_end": 69200,
+     "score": 0.1992,
+     "query": "cashflow_deterioration",
+     "text": "ve been using existing net operating loss and tax credit carryforwards to largely offset income tax obligations, the effect of the reduced federal statutory corporate income tax rate is expected to be a decrease in operating cash flows. The decrease in operating cash flows results from reduced customer rates, reflecting the tax rate decrease, without a corresponding reduction in income tax payments until about 2021. Additionally, operating cash flows will be further reduced by lower customer rates, reflecting the return of excess deferred taxes previously collected from customers over periods of time determined by our regulators. The decrease in operating cash flows as a result of the TCJA is expected to be partially offset over time by increased customer rates due to higher rate base amounts, once approved by our regulators. We expect rate base amounts to be higher as a result of lower accumulated deferred income tax liabilities, due to the elimination of 50% accelerated tax depreciation, the reduced statutory income tax rate, and the return of excess deferred taxes to customers. We also expect to make significant capital expenditures over the next five years as we invest in our e"
+    },
+    {
+     "char_start": 69000,
+     "char_end": 70200,
+     "score": 0.1468,
+     "query": "liquidity",
+     "text": "ion, the reduced statutory income tax rate, and the return of excess deferred taxes to customers. We also expect to make significant capital expenditures over the next five years as we invest in our electric and natural gas utility infrastructure to support overall system reliability, environmental compliance, and other improvements. As part of its plan to fund these capital expenditures, beginning in the first quarter of 2018, Ameren will use newly issued shares, rather than market-purchased shares, to satisfy requirements under its DRPlus and employee benefit plans and expects to do so over the next five years. Additionally, we may be required to issue incremental debt and/or equity, with the long-term intent to maintain strong financial metrics and an equity ratio around 50%, as calculated in accordance with ratemaking frameworks. The use of cash provided by operating activities and short-term borrowings to fund capital expenditures and other long-term investments will periodically result in a working capital deficit, defined as current liabilities exceeding current assets, as was the case at December 31, 2017 , for the Ameren Companies. The working capital deficit as of Decembe"
+    },
+    {
+     "char_start": 70000,
+     "char_end": 71200,
+     "score": 0.1808,
+     "query": "liquidity",
+     "text": "result in a working capital deficit, defined as current liabilities exceeding current assets, as was the case at December 31, 2017 , for the Ameren Companies. The working capital deficit as of December 31, 2017, was primarily the result of current maturities of long-term debt and our decision to finance our businesses with lower-cost commercial paper issuances. With the credit capacity available under the Credit Agreements, the Ameren Companies had access to $1.6 billion of liquidity at December 31, 2017 . The following table presents net cash provided by (used in) operating, investing and financing activities for the years ended December 31, 2017 , 2016 , and 2015 : Net Cash Provided by (Used in) Operating Activities Net Cash Used in Investing Activities Net Cash Provided by (Used in) Financing Activities 2017 2016 2015 2017 2016 2015 2017 2016 2015 Ameren (a) – continuing operations $ 2,104 $ 2,124 $ 2,035 $ (2,205 ) $ (2,141 ) $ (1,951 ) $ 102 $ (265 ) $ 232 Ameren (a) – discontinued operations — (1 ) (4 ) — — (25 ) — — — Ameren Missouri 1,016 1,169 1,247 (685 ) (934 ) (724 ) (331 ) (434 ) (325 ) Ameren Illinois 815 803 763 (1,070 ) (918 ) (913 ) 255 44 220 (a) Includes amounts "
+    },
+    {
+     "char_start": 71000,
+     "char_end": 72200,
+     "score": 0.1168,
+     "query": "cashflow_deterioration",
+     "text": "d operations — (1 ) (4 ) — — (25 ) — — — Ameren Missouri 1,016 1,169 1,247 (685 ) (934 ) (724 ) (331 ) (434 ) (325 ) Ameren Illinois 815 803 763 (1,070 ) (918 ) (913 ) 255 44 220 (a) Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. Cash Flows from Operating Activities Our cash provided by operating activities is affected by fluctuations of trade accounts receivable, inventories, and accounts and wages payable, among other things, as well as the unique regulatory environment for each of our businesses. Substantially all expenditures related to fuel, purchased power, and natural gas purchased for resale are recovered from customers through rate adjustment mechanisms, which may be adjusted without a traditional rate proceeding. Similar regulatory mechanisms exist for certain operating expenses that can also affect the timing of cash provided by operating activities. The timing of cash payments for costs recoverable under our regulatory mechanisms differs from the recovery period of those costs. Additionally, the seasonality of our electric and natural gas businesses, primarily caused by changes in customer demand due to weather, sign"
+    },
+    {
+     "char_start": 77000,
+     "char_end": 78200,
+     "score": 0.0894,
+     "query": "covenants",
+     "text": "ren Illinois Ameren Illinois' cash from operating activities increased $12 million in 2017, compared with 2016. The following items contributed to the increase: • A $75 million increase resulting from electric and natural gas margins, as discussed in Results of Operations, excluding certain noncash items, as well as the change in customer receivable balances. • A $37 million increase in cash collected from customers related to zero-emission credits pursuant to the FEJA. In the first quarter of 2018, these funds will be used for the purchase of zero-emission credits pursuant to an IPA procurement event. 52 Table of Contents • A $30 million increase resulting from income tax refunds of $22 million in 2017, compared with income tax payments of $8 million in 2016, pursuant to the tax allocation agreement with Ameren (parent), primarily related to a larger taxable loss in 2017 as a result of higher property-related deductions and use of net operating losses. • A $23 million increase in cash collected from alternative retail electric supplier customers for renewable energy credit compliance pursuant to the FEJA. The following items partially offset the increase in Ameren Illinois' cash f"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 11198,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.467,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.1232,
+     "query": "asset_impairment",
+     "text": "risk factors, regulates, among other matters, the electric and natural gas utility industries; the rate and cost structure of utilities; the operation of nuclear power plants; the construction and operation of generation, transmission, and distribution facilities; the acquisition, disposal, depreciation and amortization of assets and facilities; the electric transmission system reliability; and wholesale and retail competition. In the planning and management of our operations, we must address the effects of existing and proposed laws and regulations and potential changes in the regulatory framework, including initiatives by federal and state legislatures, RTOs, utility regulators, and taxing authorities. Significant changes in the nature of the regulation of our businesses could require changes to our business planning and management of our businesses and could adversely affect our results of operations, financial position, and liquidity. Failure to obtain adequate rates or regulatory approvals in a timely manner; failure to obtain necessary licenses or permits from regulatory authorities; the impact of new or modified laws, regulations, standards, interpretations, or other legal r"
+    },
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.0686,
+     "query": "debt_maturity",
+     "text": "sted without a traditional rate proceeding. These mechanisms could be changed or terminated. Ameren Missouri's electric and natural gas utility rates and Ameren Illinois' natural gas utility rates are typically established in regulatory proceedings that take up to 11 months to complete. Ameren Missouri's rates established in those proceedings are primarily based on 18 Table of Contents historical costs and revenues. Ameren Illinois' natural gas rates established in those proceedings are based on estimated future costs and revenues. Thus the rates that we are allowed to charge for utility services may not match our actual costs at any given time. Rates include an allowed rate of return on investments established by the regulator, including a return on invested capital, both debt and equity, and an amount for income taxes. Although rate regulation is premised on providing an opportunity to earn a reasonable rate of return on invested capital, there can be no assurance that the regulator will determine that our costs were prudently incurred or that the regulatory process will result in rates that will produce full recovery of such costs or provide for an opportunity to earn a reasonab"
+    },
+    {
+     "char_start": 4000,
+     "char_end": 5200,
+     "score": 0.1196,
+     "query": "liquidity",
+     "text": "will determine that our costs were prudently incurred or that the regulatory process will result in rates that will produce full recovery of such costs or provide for an opportunity to earn a reasonable return on those investments. With respect to Ameren Missouri's electric and natural gas utility rates, in years when capital investments and operations costs rise or customer usage declines below those levels reflected in rates, we may not be able to earn the allowed return established by the regulator. This could result in the deferral or cancellation of planned capital investments, which could reduce the rate base investments on which Ameren Missouri earns a rate of return. Additionally, increasing rates could result in regulatory or legislative actions, as well as competitive or political pressures, all of which could adversely affect our results of operations, financial position, and liquidity. As a result of its participation in the performance-based formula ratemaking framework established pursuant to the IEIMA and the FEJA, Ameren Illinois' return on equity for its electric distribution service and its electric energy-efficiency investments is directly correlated to yields on"
+    },
+    {
+     "char_start": 5000,
+     "char_end": 6200,
+     "score": 0.1008,
+     "query": "liquidity",
+     "text": "tablished pursuant to the IEIMA and the FEJA, Ameren Illinois' return on equity for its electric distribution service and its electric energy-efficiency investments is directly correlated to yields on United States Treasury bonds. Additionally, Ameren Illinois is required to achieve certain performance standards and capital spending levels. Failure to meet these requirements could adversely affect Ameren's and Ameren Illinois' results of operations, financial position, and liquidity. Ameren Illinois participates in a performance-based formula ratemaking framework established pursuant to the IEIMA for its electric distribution service. Beginning in 2017, the FEJA allowed Ameren Illinois to recover its electric distribution revenue requirement for a given year, independent of actual sales volumes. Since June 2017, the FEJA has also allowed Ameren Illinois to earn a return on its electric energy-efficiency program investments, which is subject to performance-based formula ratemaking. The ICC annually reviews Ameren Illinois' rate filings for reasonableness and prudency. If the ICC were to conclude that Ameren Illinois' costs were not prudently incurred, the ICC would disallow recovery"
+    },
+    {
+     "char_start": 9000,
+     "char_end": 10200,
+     "score": 0.0894,
+     "query": "going_concern",
+     "text": " return on investments. The decoupling provisions of the FEJA do not expire at the end of 2022. Pursuant to the FEJA, Ameren Illinois plans to invest up to $99 million per year in electric energy-efficiency programs from 2018 through 2021 that will earn a return. Ameren Illinois plans to make similar yearly investments in electric energy-efficiency programs from 2022 through 2030. The ICC has the ability to reduce electric energy-efficiency savings goals if there are insufficient cost-effective programs available or if the savings goals would require investment levels that exceed amounts allowed by legislation. 19 Table of Contents We are subject to various environmental laws and regulations. Significant capital expenditures are required to achieve and to maintain compliance with these laws and regulations. Failure to comply with these laws and regulations could result in the closing of facilities, alterations to the manner in which these facilities operate, increased operating costs, or exposure to fines and liabilities, all of which could adversely affect our results of operations, financial position, and liquidity. We are subject to various environmental laws and regulations enf"
+    }
+   ]
+  }
+ }
+}

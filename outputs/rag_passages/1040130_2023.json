@@ -1,0 +1,115 @@
+{
+ "cik": "1040130",
+ "name": "PETMED EXPRESS INC",
+ "filing_date": "2023-05-23",
+ "label": 0,
+ "sections": {
+  "mda": {
+   "source_chars": 80000,
+   "n_passages": 8,
+   "selected_chars": 9600,
+   "overlap_with_step3_excerpt": 0.125,
+   "passages": [
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.108,
+     "query": "going_concern",
+     "text": "ll applicable state rules, laws, and regulations, from time to time we have been the subject of administrative complaints regarding the authorization of prescriptions prior to shipment. We cannot assure you that we will not be the subject of administrative complaints in the future. We cannot guarantee you that we will not be subject to reprimands, sanctions, probations, or fines, or that one or more of our pharmacy licenses will not be suspended or revoked. If we were unable to maintain our license as a community pharmacy in the State of Florida, or if we are not granted licensure in a state that begins to require licensure, or if one or more of the licenses granted by other state boards should be suspended or revoked, our ability to continue to sell prescription medications and to continue our business as it is presently conducted could be in jeopardy. Business Risks Our failure to properly manage our inventory may result in excessive inventory carrying costs, or inadequate supply of products, which could materially adversely affect our financial condition and results of operations. Our current product line contains approximately 15,000 SKUs including the SKUs acquired in our acqu"
+    },
+    {
+     "char_start": 21000,
+     "char_end": 22200,
+     "score": 0.0627,
+     "query": "covenants",
+     "text": "ents, or fraud. If we fail to comply with the rules or requirements of any provider of a payment method we accept, if the volume of fraud in our transactions limits or terminates our rights to use payment methods we currently accept, or if a data breach occurs relating to our payment systems, we may, among other things, be subject to fines or higher transaction fees and may lose, or face restrictions placed upon, our ability to accept credit card payments from consumers or facilitate other types of online payments. If any of these events were to occur, our business, financial condition, and results of operations could be materially and adversely affected. Our failure or the failure of third-party service providers to protect our website, networks, and systems against cybersecurity incidents, or otherwise to protect our confidential information, could damage our reputation and brand and substantially harm our business, financial condition, and results of operations. As a result of our services being web based, we collect, process, transmit and store large amounts of data about our customers, employees, suppliers and others, including credit card information and personally identifiab"
+    },
+    {
+     "char_start": 24000,
+     "char_end": 25200,
+     "score": 0.056,
+     "query": "liquidity",
+     "text": "l or inadvertent breaches by our employees or by persons with whom we have commercial relationships. 12 Table of Contents Breaches of our security measures or those of our third-party service providers or any cybersecurity incident could result in unauthorized access to our website, networks and systems; unauthorized access to and misappropriation of consumer and/or employee information, including personally identifiable information, or other confidential or proprietary information of ourselves or third parties; viruses, worms, spyware or other malware being served from our website, networks or systems; deletion or modification of content or the display of unauthorized content on our website; interruption, disruption or malfunction of operations; costs relating to cybersecurity incident remediation, deployment of additional personnel and protection technologies, response to governmental investigations and media inquiries and coverage; engagement of third party experts and consultants; litigation, regulatory action and other potential liabilities. If any of these cybersecurity incidents occur, or there is a public perception that we, or our third-party service providers, have suffer"
+    },
+    {
+     "char_start": 44000,
+     "char_end": 45200,
+     "score": 0.0625,
+     "query": "going_concern",
+     "text": " may be adversely affected which could result in an impairment of our investment.. The pet telehealth market is, in general, immature and uncertain. It is uncertain whether the telemedicine market and our approach to pet telehealth with Vetster will achieve and sustain high levels of demand, consumer acceptance and market adoption. The COVID-19 pandemic increased acceptance and utilization of telemedicine services, but it is uncertain whether such increase in demand will continue. Demand for pet telemedicine and telehealth services is affected by a number of factors, many of which are beyond our control. Some of these potential factors include: • market adoption and ongoing usage of pet telehealth and telemedicine services and solutions; • awareness and adoption of technology in healthcare generally; • availability of products and services that compete with ours; • ability to maintain and expand a network of qualified providers; • ease of adoption and use; • features and platform experience; • performance; • brand; • security and privacy; and • pricing. Our success will depend to a substantial extent on the willingness of our customers to use, and to increase the frequency and exte"
+    },
+    {
+     "char_start": 46000,
+     "char_end": 47200,
+     "score": 0.0561,
+     "query": "covenants",
+     "text": "and compliance requirements, including payment network rules and operating guidelines, data security standards and certification requirements, and rules governing electronic funds transfers. These requirements may change over time or be reinterpreted, making compliance more difficult or costly. For certain payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over time and raise our operating costs. We rely on third parties to provide payment processing services, including the processing of credit cards, debit cards, and other forms of electronic payment. If these companies become unable to provide these services to us, or if their systems are compromised, it could potentially disrupt our business. The payment methods that we offer also subject us to potential fraud and theft by criminals, who are becoming increasingly more sophisticated, seeking to obtain unauthorized access to or exploit weaknesses that may exist in the payment systems. If we fail to comply with applicable rules or requirements for the payment methods we accept, or if payment-related data is compromised due to a breach or misuse of data, we may be liable for cost"
+    },
+    {
+     "char_start": 65000,
+     "char_end": 66200,
+     "score": 0.0892,
+     "query": "liquidity",
+     "text": "on ($0.30 per share per quarter), respectively. The Company's Board of Directors declared a quarterly dividend of $0.30 per share on May 22, 2023. The dividend will be payable on June 12, 2023 to common shareholders of record on June 6, 2023. The declaration and payment of future dividends is discretionary and will be subject to a determination by the Board of Directors each quarter. When considering whether to declare a dividend, our Board of Directors will take into account: • General economic and business conditions; • Our financial condition and operating results; • Our available cash and current and anticipated cash needs; • Our capital requirements; • Strategic uses of cash for growth initiatives; • Contractual, legal, tax and regulatory restrictions on the payment of dividends by us; and • Such other factors as our Board of Directors may deem relevant. Issuer Purchases of Equity Securities The Company has $110.0 million of shares authorized under previously approved share repurchase programs. The share repurchase program does not have an expiration date and is intended to be implemented through purchases made from time to time in either the open market or through private tra"
+    },
+    {
+     "char_start": 77000,
+     "char_end": 78200,
+     "score": 0.0993,
+     "query": "asset_impairment",
+     "text": "usand and $39 thousand at March 31, 2023 and 2022, respectively. Valuation of inventory Inventories consist of prescription and non-prescription pet medications and pet supplies that are available for sale and are priced at the lower of cost or net realizable value using a weighted average cost method. We write down our inventory 25 Table of Contents for estimated obsolescence. The inventory reserve was approximately $48 thousand and $81 thousand at March 31, 2023 and 2022, respectively. Advertising Our advertising expense consists primarily of Internet marketing, direct mail/print, and television advertising. Internet costs are expensed in the month incurred and direct mail/print advertising costs are expensed when the related brochures and postcards are produced, distributed, or superseded. Television advertising costs are expensed as the advertisements are televised. Accounting for income taxes We account for income taxes under the provisions of ASC Topic 740 (\" Accounting for Income Taxes \"), which generally requires recognition of deferred tax assets and liabilities for the expected future tax benefits or consequences of events that have been included in our consolidated finan"
+    },
+    {
+     "char_start": 78000,
+     "char_end": 79200,
+     "score": 0.0744,
+     "query": "asset_impairment",
+     "text": "e Taxes \"), which generally requires recognition of deferred tax assets and liabilities for the expected future tax benefits or consequences of events that have been included in our consolidated financial statements or tax returns. Under this method, deferred tax assets and liabilities are determined based on differences between the financial reporting carrying values and the tax bases of assets and liabilities and are measured by applying enacted tax rates and laws for the taxable years in which those differences are expected to reverse. COVID-19 and Other Macroeconomic Factors The COVID-19 pandemic had a significant impact around the world and has created significant volatility, uncertainty, and economic disruption. It prompted governments and businesses to take unprecedented measures in response. While economies of various countries have rebounded from the global Covid-19 economic shutdown that began in the late first quarter and early second quarter 2020, the impact of the Covid-19 pandemic continued, to varying degrees, in 2022 and continues, to varying degrees, in 2023 due to mounting inflationary cost pressures and potential recession indicators that have now negatively impa"
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 20349,
+   "n_passages": 5,
+   "selected_chars": 6000,
+   "overlap_with_step3_excerpt": 0.338,
+   "passages": [
+    {
+     "char_start": 3000,
+     "char_end": 4200,
+     "score": 0.1166,
+     "query": "going_concern",
+     "text": "ect on the Company's financial condition or results of operations. While we make every effort to fully comply with all applicable state rules, laws, and regulations, from time to time we have been the subject of administrative complaints regarding the authorization of prescriptions prior to shipment. We cannot assure you that we will not be the subject of administrative complaints in the future. We cannot guarantee you that we will not be subject to reprimands, sanctions, probations, or fines, or that one or more of our pharmacy licenses will not be suspended or revoked. If we were unable to maintain our license as a community pharmacy in the State of Florida, or if we are not granted licensure in a state that begins to require licensure, or if one or more of the licenses granted by other state boards should be suspended or revoked, our ability to continue to sell prescription medications and to continue our business as it is presently conducted could be in jeopardy. Business Risks Our failure to properly manage our inventory may result in excessive inventory carrying costs, or inadequate supply of products, which could materially adversely affect our financial condition and result"
+    },
+    {
+     "char_start": 8000,
+     "char_end": 9200,
+     "score": 0.0899,
+     "query": "covenants",
+     "text": "cturer under the terms and conditions of a purchasing agreement which dictates purchase pricing of inventory and criteria to obtain additional discounts and rebates. The terms of these agreements also require the Company to comply with the manufacturers' MAPP. Each advertisement and/or promotion of a product below the MAPP price, should they occur, would be a violation of the policy. This policy applies to all advertisements of products in all media including, without limitation, flyers, posters, coupons, mailers, inserts, newspapers, magazines, on-line catalogs, mail order catalogs, public signage and all Internet or similar electronic media, television, radio and public signage, including websites, email newsletters, forums, and auction sites. At the discretion of the manufacturers, non-compliance with the MAPP can result in one or more of the following actions: (1) forfeiture of future rebates or discounts from the manufacturer, (2) suspension of future purchases from the manufacturer, (3) or termination of current or future business relationship. The Company has and will continue to make every attempt to abide by the manufacturers MAPP. However, no assurances can be made that t"
+    },
+    {
+     "char_start": 10000,
+     "char_end": 11200,
+     "score": 0.0803,
+     "query": "cashflow_deterioration",
+     "text": "rs. While we believe that our supplier relationships are good, a supplier could discontinue selling to us at any time. The loss of any of our key suppliers of pet medications offered by us would have a negative impact on our business, financial condition, and results of operations. Shipping is a critical part of our business and any changes in, or disruptions to, our shipping arrangements could adversely affect our business, financial condition, and results of operations. We currently rely on third-party national, regional, and local logistics providers to deliver the products we offer on our website. If we are not able to negotiate acceptable pricing and other terms with these providers, or if these providers experience performance problems or other difficulties in processing our orders or delivering our products to customers, it could negatively impact our results of operations and our customers' experience. In addition, our ability to receive inbound inventory efficiently and ship merchandise to customers may be negatively affected by factors beyond our and these providers' control, including inclement weather, fire, flood, power loss, earthquakes, acts of war or terrorism or ot"
+    },
+    {
+     "char_start": 14000,
+     "char_end": 15200,
+     "score": 0.0869,
+     "query": "liquidity",
+     "text": " of others. We rely on a combination of trademarks, trade secrets, copyright laws, and contractual restrictions to protect our intellectual property rights. These afford only limited protection. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy our non-prescription private label or generic equivalents, when and if developed, as well as aspects of our sales formats, or to obtain and use information that we regard as proprietary, including the technology used to operate our website and our content, and our trademarks. Litigation or proceedings before the United States Patent and Trademark Office or other bodies may be necessary in the future to enforce our intellectual property rights, to protect our trade secrets and domain names, or to determine the validity and scope of the proprietary rights of others. Any litigation or adverse proceeding could result in substantial costs and diversion of resources and could seriously harm our business and operating results. Third parties may also claim infringement by us with respect to past, current, or future technologies. We expect that participants in our market will be increasingly involved in i"
+    },
+    {
+     "char_start": 18000,
+     "char_end": 19200,
+     "score": 0.0908,
+     "query": "asset_impairment",
+     "text": "nize that the frequency and intensity of extreme weather events, sea-level rise, and other climatic changes may continue to increase and, as a result, our exposure to these events may increase. We cannot assure you that we are adequately insured to cover the amount of any losses relating to any of these potential events, including business interruptions resulting from damage to or destruction of our headquarters and 11 Table of Contents distribution center, or power and equipment failures relating to our call center or websites, or interruptions or disruptions to major transportation infrastructure, or other events that do not occur on our premises. The occurrence of one or more of these events could adversely impact our ability to generate revenues in future periods. A failure or misuse of our information systems and customer-facing technology systems, including our online payment methods, could adversely affect our results of operations, expose us to third-party claims, or increase our exposure to fraud and other risks. Our business is dependent upon the efficient operation of our information systems. In particular, we rely on our information systems to effectively manage our bus"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "cik": "887921",
+ "name": "REVLON INC /DE/",
+ "filing_date": "2022-03-03",
+ "label": 1,
+ "sections": {
+  "mda": {
+   "source_chars": 2433,
+   "n_passages": 3,
+   "selected_chars": 2833,
+   "overlap_with_step3_excerpt": 1.0,
+   "passages": [
+    {
+     "char_start": 0,
+     "char_end": 1200,
+     "score": 0.1262,
+     "query": "asset_impairment",
+     "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations - Provision for Income Taxes,\" for further information. The Company recognizes a tax position in its financial statements when management determines that it was more likely than not that the position will be sustained upon examination, based on the merits of such position. The Company recognizes liabilities for unrecognized tax positions in the U.S. and other tax jurisdictions based on an estimate of whether and the extent to which additional taxes will be due. If payment of these amounts is ultimately not required, the reversal of the liabilities would result in additional tax benefits recognized in the period in which the Company determines that the liabilities are no longer required. If the estimate of tax liabilities is ultimately less than the final assessment, this will result in a further charge to expense. The Company recognizes interest and penalties related to income tax matters in income tax expense. As of December 31, 2021, the Company is indefinitely reinvested in the accumulated undistributed earnings of all of its foreign subsidiaries. If earnings are repatriated, any excess of fina"
+    },
+    {
+     "char_start": 1000,
+     "char_end": 2200,
+     "score": 0.1061,
+     "query": "asset_impairment",
+     "text": "x expense. As of December 31, 2021, the Company is indefinitely reinvested in the accumulated undistributed earnings of all of its foreign subsidiaries. If earnings are repatriated, any excess of financial reporting over tax basis could be subject to federal, state and foreign withholding taxes. At this time, the determination of deferred tax liabilities on the amount of financial reporting over tax basis is not practicable. See Note 13, \"Income Taxes,\" to the Company's Audited Consolidated Financial Statements in this 2021 Form 10-K for further information. Recently Evaluated and/or Adopted Accounting Pronouncements See Note 1., \"Description of Business and Summary of Significant Accounting Policies,\" to the Company's Audited Consolidated Financial Statements in this 2021 Form 10-K for further information. Recently Issued Accounting Pronouncements See Note 1., \"Description of Business and Summary of Significant Accounting Policies,\" to the Company's Audited Consolidated Financial Statements in this 2021 Form 10-K for further information. Inflation The Company's costs are affected by inflation and the effects of inflation that the Company may experience in future periods. The Compa"
+    },
+    {
+     "char_start": 2000,
+     "char_end": 2433,
+     "score": 0.1913,
+     "query": "liquidity",
+     "text": "ements in this 2021 Form 10-K for further information. Inflation The Company's costs are affected by inflation and the effects of inflation that the Company may experience in future periods. The Company attempts to mitigate the effects of inflation by increasing prices in line with inflation, where possible, and efficiently managing its costs and working capital levels. 55 Table of Contents REVLON, INC. AND SUBSIDIARIES Item 7A. "
+    }
+   ]
+  },
+  "risk": {
+   "source_chars": 13990,
+   "n_passages": 5,
+   "selected_chars": 5790,
+   "overlap_with_step3_excerpt": 0.172,
+   "passages": [
+    {
+     "char_start": 8000,
+     "char_end": 9200,
+     "score": 0.0879,
+     "query": "going_concern",
+     "text": "ess than expected levels of execution vis-à-vis its new product launches with its customers in one or more of its segments or regions, in each case whether attributable to COVID-19 or otherwise; (2) less than expected levels of advertising, promotional and/or marketing activities for its new product launches, less than expected acceptance of its advertising, promotional, pricing and/or marketing plans and/or brand communication by consumers and/or customers in one or more of its segments, less than expected investment in advertising, promotional and/or marketing activities or greater than expected competitive investment, in each case whether attributable to COVID-19 or otherwise; and/or (3) difficulties or disruptions impacting the Company's ability to ensure availability of its products where consumers shop, both in-store and increasingly online, including, without limitation, difficulties with, delays in or the inability to achieve the Company's expected results, such as due to, among other things, the Company's business experiencing greater than anticipated disruptions due to COVID-19 related uncertainty or other related factors making it more difficult to maintain relationships"
+    },
+    {
+     "char_start": 10000,
+     "char_end": 11200,
+     "score": 0.1632,
+     "query": "asset_impairment",
+     "text": "onal credit in the current capital markets and/or decreased performance by third party suppliers; (v) difficulties, delays or unanticipated costs or charges or less than expected cost reductions and other benefits resulting from the Company's restructuring activities, higher than anticipated restructuring charges and/or payments and/or changes in the expected timing of such charges and/or payments; and/or less than expected additional sources of liquidity from such initiatives; (vi) lower than expected operating revenues, cash on hand and/or funds available under the Amended 2016 Revolving Credit Facility, and/or other permissible borrowings or generated from cost reductions resulting from the implementation of cost control initiatives , and/or from selling certain assets in connection with the Company's ongoing Strategic Review; higher than anticipated operating expenses, such as referred to in clause (viii) below; and/or less than anticipated cash generated by the Company's operations or unanticipated restrictions or taxes on repatriation of foreign earnings; (vii) the unavailability of funds under the Amended 2016 Revolving Credit Facility, and/or other permissible borrowings; t"
+    },
+    {
+     "char_start": 11000,
+     "char_end": 12200,
+     "score": 0.1181,
+     "query": "covenants",
+     "text": "s or unanticipated restrictions or taxes on repatriation of foreign earnings; (vii) the unavailability of funds under the Amended 2016 Revolving Credit Facility, and/or other permissible borrowings; the unavailability of funds under the 2021 Foreign Asset-Based Term Facility, such as due to reductions in the applicable borrowing base that could require certain mandatory prepayments; the unavailability of funds from difficulties, delays in or the Company's inability to take other measures, such as reducing discretionary spending and/or less than expected liquidity from cost reductions resulting from the implementation of its restructuring programs and from other cost reduction initiatives , and/or from selling certain assets in connection with the Company's ongoing Strategic Review; (viii) higher than expected operating expenses, such as higher than expected purchases of permanent displays, capital expenditures, debt service payments and costs, cash tax payments, pension and other post-retirement plan contributions, payments in connection with the Company's restructuring programs , severance not otherwise included in the Company's restructuring programs, business and/or brand acquis"
+    },
+    {
+     "char_start": 12000,
+     "char_end": 13200,
+     "score": 0.1263,
+     "query": "liquidity",
+     "text": "retirement plan contributions, payments in connection with the Company's restructuring programs , severance not otherwise included in the Company's restructuring programs, business and/or brand acquisitions (including, without limitation, through licensing transactions), if any, additional debt and/or equity repurchases, if any, costs related to litigation, discontinuing non-core business lines and/or entering and/or exiting certain territories and/or channels of trade, advertising, promotional and marketing activities or for sales returns related to any reduction of space by the Company's customers, product discontinuances or otherwise; (ix) unexpected significant impacts on the Company from changes in interest rates or foreign exchange rates; (x) difficulties, delays or the inability of the Company to efficiently manage its cash and working capital; (xi) lower than expected returns on pension plan assets and/or lower discount rates, which could result in higher than expected cash contributions, higher net periodic benefit costs and/or less than expected net periodic benefit income; (xii) unexpected significant variances in the Company's tax provision, effective tax rate and/or un"
+    },
+    {
+     "char_start": 13000,
+     "char_end": 13990,
+     "score": 0.1294,
+     "query": "cashflow_deterioration",
+     "text": "tributions, higher net periodic benefit costs and/or less than expected net periodic benefit income; (xii) unexpected significant variances in the Company's tax provision, effective tax rate and/or unrecognized tax benefits, such as due to the issuance of unfavorable guidance, interpretations, technical clarifications and/or technical corrections legislation by the U.S. Congress, the U.S. Treasury Department or the IRS, unexpected changes in foreign, state or local tax regimes in response to the Tax Act, and/or changes in estimates that may impact the calculation of the Company's tax provisions, as well as changes in circumstances that could adversely impact the Company's expectations regarding the establishment of additional valuation allowances on its deferred tax assets; (xiii) unanticipated adverse effects on the Company's business, prospects, results of operations, financial condition and/or cash flows as a result of unexpected developments with respect to the Company's "
+    }
+   ]
+  }
+ }
+}
