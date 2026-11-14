@@ -1,0 +1,230 @@
+[
+ {
+  "question_id": "going_concern",
+  "question": "Which companies disclosed going-concern doubts, auditor concerns, or bankruptcy / restructuring proceedings?",
+  "as_of": "2024-12-31",
+  "hits": [
+   {
+    "cik": "1349436",
+    "name": "SANDRIDGE ENERGY INC",
+    "filing_date": "2016-03-30",
+    "section": "risk",
+    "char_start": 0,
+    "char_end": 1200,
+    "score": 0.263,
+    "quote": "Risk Factors The Company has engaged advisors to assist with a private restructuring or reorganization under Title 11 of the U.S. Bankruptcy Code in the foreseeable future, which raises substantial doubt about its ability to continue as a going concern. As a result of the impacts to the Company's financial position resulting from declining industry conditions and in consideration of the substantial amount of long-term debt outstanding, the Company has engaged advisors to assist with the evaluation of strategic alternatives, which may include, but not be limited to, seeking a restructuring, ame"
+   },
+   {
+    "cik": "1813756",
+    "name": "WeWork Inc.",
+    "filing_date": "2023-03-29",
+    "section": "risk",
+    "char_start": 51000,
+    "char_end": 52200,
+    "score": 0.2208,
+    "quote": "substantial doubt about the Company's ability to continue as a going concern within one year after the date that these Consolidated Financial Statements are issued. As further discussed in Note 2 to the Consolidated Financial Statements, our losses and projected cash needs, combined with our current liquidity level, initially raised substantial doubt about the Company's ability to continue as a going concern. Management's plan to improve the Company's liquidity and successfully alleviate the substantial doubt includes (1) restructuring existing debt and raising additional capital and, (2) taki"
+   },
+   {
+    "cik": "1631463",
+    "name": "Barrel Energy Inc.",
+    "filing_date": "2020-01-30",
+    "section": "risk",
+    "char_start": 27000,
+    "char_end": 28200,
+    "score": 0.1687,
+    "quote": "eptember 30, 2019, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of September 30, 2019 and 2018, and the results of its operations and its cash flows for each of the years in the two-year period ended September 30, 2019, in conformity with accounting principles generally accepted in the United States of America. Going Concern The accompanying financial statements have been prepared assuming that the Company will continue as a going concern."
+   },
+   {
+    "cik": "1813756",
+    "name": "WeWork Inc.",
+    "filing_date": "2023-03-29",
+    "section": "risk",
+    "char_start": 50000,
+    "char_end": 51200,
+    "score": 0.1672,
+    "quote": "andards The accompanying Consolidated Financial Statements are prepared in accordance with U.S. GAAP applicable to a going concern. This presentation contemplates the realization of assets and the satisfaction of liabilities in the normal course of business and does not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from the outcome of the uncertainties described below. The Consolidated Financial Statements do not include any adjustments to the carrying amounts and classifica"
+   },
+   {
+    "cik": "1430306",
+    "name": "Tonix Pharmaceuticals Holding Corp.",
+    "filing_date": "2020-03-24",
+    "section": "risk",
+    "char_start": 54000,
+    "char_end": 55200,
+    "score": 0.1648,
+    "quote": "he financial statements present fairly, in all material respects, the consolidated financial position of the Company as of December 31, 2019 and 2018, and the consolidated results of their operations and their cash flows for each of the years then ended, in conformity with accounting principles generally accepted in the United States of America . Going Concern The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has continuing losses and negative cash flows from opera"
+   }
+  ]
+ },
+ {
+  "question_id": "covenant_breach",
+  "question": "Which companies reported covenant violations, waivers, or defaults under their credit agreements?",
+  "as_of": "2024-12-31",
+  "hits": [
+   {
+    "cik": "1255474",
+    "name": "Whiting Holdings LLC",
+    "filing_date": "2020-02-27",
+    "section": "mda",
+    "char_start": 7000,
+    "char_end": 8200,
+    "score": 0.1718,
+    "quote": "there were no retained earnings free from restrictions. The credit agreement requires us, as of the last day of any quarter, to maintain the following ratios (as defined in the credit agreement): (i) a consolidated current assets to consolidated current liabilities ratio (which includes an add back of the available borrowing capacity under the credit agreement) of not less than 1.0 to 1.0 and (ii) a total debt to the last four quarters' EBITDAX ratio of not greater than 4.0 to 1.0. As of December 31, 2019, we were in compliance with the covenants under the credit agreement. While not required "
+   },
+   {
+    "cik": "1051512",
+    "name": "TELEPHONE & DATA SYSTEMS INC /DE/",
+    "filing_date": "2018-02-26",
+    "section": "risk",
+    "char_start": 20000,
+    "char_end": 21200,
+    "score": 0.1477,
+    "quote": "bject to prevailing economic and competitive conditions and other factors beyond its control. In addition, TDS' leverage may put it at a competitive disadvantage to some of its competitors that are not as leveraged. The TDS and U.S. Cellular revolving credit facilities, the U.S. Cellular term loan facility and the U.S. Cellular receivables securitization facility require TDS or U.S. Cellular, as applicable, to comply with certain affirmative and negative covenants, including certain f inancial covenants. Depending on actual financial performance of TDS and U.S. Cellular, there is a risk that T"
+   },
+   {
+    "cik": "886158",
+    "name": "20230930-DK-Butterfly-1, Inc.",
+    "filing_date": "2022-04-21",
+    "section": "risk",
+    "char_start": 17000,
+    "char_end": 18200,
+    "score": 0.1226,
+    "quote": "contains customary representations and warranties, events of default and financial, affirmative and negative covenants for facilities of this type, including but not limited to a springing financial covenant relating to a fixed charge coverage ratio, and restrictions on indebtedness, liens, investments and acquisitions, asset dispositions, restricted payments 57 Table of Contents and prepayment of certain indebtedness. The Company was in compliance with all covenants related to the Amended Credit Agreement as of February 26, 2022. As of February 26, 2022 and February 27, 2021, unamortized defe"
+   },
+   {
+    "cik": "1255474",
+    "name": "Whiting Holdings LLC",
+    "filing_date": "2020-02-27",
+    "section": "mda",
+    "char_start": 8000,
+    "char_end": 9200,
+    "score": 0.0973,
+    "quote": "cross default provision provides that a default under certain other debt of the Company or certain of its subsidiaries in an aggregate principal amount exceeding $100 million may constitute an event of default under such credit agreement. Additionally, under the indentures governing our senior notes and senior convertible notes, a cross-default provision provides that a default under certain other debt of the Company or certain of its subsidiaries in an aggregate principal amount exceeding $100 million (or $50 million in the case of the 2021 Senior Notes) may constitute an event of default und"
+   },
+   {
+    "cik": "1255474",
+    "name": "Whiting Holdings LLC",
+    "filing_date": "2020-02-27",
+    "section": "mda",
+    "char_start": 13000,
+    "char_end": 14200,
+    "score": 0.0852,
+    "quote": "holder who elects to convert its 2020 Convertible Senior Notes in connection with such corporate event. We have the option to settle conversions of these notes with cash, shares of common stock or a combination of cash and common stock at our election. Our intent is to settle the principal amount of the 2020 Convertible Senior Notes in cash upon conversion. At maturity, we must settle all outstanding 2020 Convertible Senior Notes in cash. Our business plan includes the intent to settle the outstanding 2020 Convertible Senior Notes using borrowings under the credit agreement. Note Covenants. Th"
+   }
+  ]
+ },
+ {
+  "question_id": "maturity_wall",
+  "question": "Which companies faced significant debt maturities or refinancing needs within the next twelve months?",
+  "as_of": "2024-12-31",
+  "hits": [
+   {
+    "cik": "1813756",
+    "name": "WeWork Inc.",
+    "filing_date": "2023-03-29",
+    "section": "risk",
+    "char_start": 7000,
+    "char_end": 8200,
+    "score": 0.1172,
+    "quote": "her than the restrictions relating to our SBG JVs discussed in note (1) to the table above, third-party approval for the distribution of available net assets is not required for any of our consolidated VIEs as of December 31, 2022. See the section entitled \"— 7.875% Senior Notes \" below for a discussion on additional restrictions on the net assets of WeWork Companies LLC. As of December 31, 2022, creditors of our consolidated VIEs do not have recourse against the general credit of the Company except with respect to certain lease guarantees we have provided to landlords of our consolidated VIEs"
+   },
+   {
+    "cik": "1813756",
+    "name": "WeWork Inc.",
+    "filing_date": "2023-03-29",
+    "section": "risk",
+    "char_start": 8000,
+    "char_end": 9200,
+    "score": 0.1146,
+    "quote": "nths does not assume that we will receive distributions from those entities. Sources of Liquidity As of December 31, 2022, we had $22 million of principal debt maturing within the next 12 months and our total debt consisted of the following: 92 Table of Contents Maturity Year Interest Rate Outstanding Principal Balance (Amounts in millions, except percentages) 5.00% Senior Notes 2025 5.00% $ 2,200 7.875% Senior Notes 2025 7.875% 669 Junior LC Tranche (1) 2025 9.593% 350 Other Loans 2023 - 2026 3.3% - 20.9% 25 Total debt, excluding deferred financing costs $ 3,244 (1) As of December 31, 2022, t"
+   },
+   {
+    "cik": "1282266",
+    "name": "WINDSTREAM HOLDINGS, INC.",
+    "filing_date": "2018-02-28",
+    "section": "risk",
+    "char_start": 23000,
+    "char_end": 24200,
+    "score": 0.1013,
+    "quote": "NC. CONSOLIDATED BALANCE SHEETS December 31, (Millions, except par value) 2017 2016 Assets Current Assets: Cash and cash equivalents $ 43.4 $ 59.1 Accounts receivable (less allowance for doubtful accounts of $29.7 and $27.1, respectively) 643.0 618.6 Inventories 93.0 77.5 Prepaid expenses and other 153.1 111.7 Total current assets 932.5 866.9 Goodwill 2,842.4 4,213.6 Other intangibles, net 1,454.4 1,320.5 Net property, plant and equipment 5,391.8 5,283.5 Deferred income taxes 370.8 — Other assets 92.4 85.5 Total Assets $ 11,084.3 $ 11,770.0 Liabilities and Shareholders' Equity (Deficit) Curren"
+   },
+   {
+    "cik": "1282266",
+    "name": "WINDSTREAM HOLDINGS, INC.",
+    "filing_date": "2018-02-28",
+    "section": "risk",
+    "char_start": 34000,
+    "char_end": 35200,
+    "score": 0.1013,
+    "quote": ", net 1,454.4 1,320.5 Net property, plant and equipment 5,391.8 5,283.5 Deferred income taxes 370.8 — Other assets 92.4 85.5 Total Assets $ 11,084.3 $ 11,770.0 Liabilities and Member Equity (Deficit) Current Liabilities: Current maturities of long-term debt $ 169.3 $ 14.9 Current portion of long-term lease obligations 188.6 168.7 Accounts payable 494.0 390.2 Advance payments and customer deposits 207.3 178.1 Accrued taxes 89.5 78.0 Accrued interest 52.6 58.1 Other current liabilities 342.1 366.6 Total current liabilities 1,543.4 1,254.6 Long-term debt 5,674.6 4,848.7 Long-term lease obligation"
+   },
+   {
+    "cik": "1004980",
+    "name": "PG&E Corp",
+    "filing_date": "2018-02-09",
+    "section": "risk",
+    "char_start": 50000,
+    "char_end": 51200,
+    "score": 0.1013,
+    "quote": "or notes: Maturity Interest Rates 2017 5.63% - 700 2018 8.25% 400 800 2020 3.50% 800 800 2021 3.25% to 4.25% 550 550 2022 2.45% 400 400 2023 through 2047 2.95% to 6.35% 14,975 12,375 Less: current portion (1) (400) (700) Unamortized discount, net of premium and debt issuance costs (185) (161) Total senior notes, net of current portion 16,540 14,764 Pollution control bonds: Maturity Interest Rates Series 2004 A-D due 2023 (2) 4.75% - 345 Series 2008 F and 2010 E, due 2026 (3) 1.75% 100 - Series 2008 G, due 2018 (4) 1.05% 45 - Series 2009 A-B, due 2026 (5) 1.78% 149 149 Series 1996 C, E, F, 1997"
+   }
+  ]
+ },
+ {
+  "question_id": "liquidity_stress_2019",
+  "question": "As of end-2019 only: which companies showed liquidity stress (cash burn, reliance on credit facilities)?",
+  "as_of": "2019-12-31",
+  "hits": [
+   {
+    "cik": "1310067",
+    "name": "SEARS HOLDINGS CORP",
+    "filing_date": "2018-03-23",
+    "section": "mda",
+    "char_start": 57000,
+    "char_end": 58200,
+    "score": 0.1251,
+    "quote": "FILO Loan, which proceeds were using to reduce outstanding borrowings under our revolving credit facility. The FILO Loan has a maturity date of July 20, 2020, which is the same maturity date as the Company's revolving credit facility commitments, and does not amortize. In addition to pursuing several transactions to adjust our capital structure in order to enhance our liquidity and financial position, the Company is also taking incremental actions to further streamline operations to drive profitability, including cost reductions of $200 million on an annualized basis in 2018 unrelated to store"
+   },
+   {
+    "cik": "1004980",
+    "name": "PG&E Corp",
+    "filing_date": "2018-02-09",
+    "section": "mda",
+    "char_start": 47000,
+    "char_end": 48200,
+    "score": 0.1095,
+    "quote": "ds. PG&E Corporation's ability to fund operations, make scheduled principal and interest payments, fund equity contributions to the Utility , and declare and pay dividends primarily depends on the level of cash distributions received from the Utility and PG&E Corporation's access to the capital and credit markets. PG&E Corporation's equity contributions to the Utility are funded primarily through common stock issuances. PG&E Corporation has material stand-alone cash flows related to the issuance of equity and long-term debt, and issuances and repayments under its revolving credit facility and "
+   },
+   {
+    "cik": "1310067",
+    "name": "SEARS HOLDINGS CORP",
+    "filing_date": "2018-03-23",
+    "section": "risk",
+    "char_start": 0,
+    "char_end": 1200,
+    "score": 0.1029,
+    "quote": "Risk Factors Our operations and financial results are subject to various risks and uncertainties, including those described below, which could adversely affect our business, results of operations and financial condition. We cannot predict whether our plans to enhance our financial flexibility and liquidity to fund our transformation will be successful. We are continuing to pursue a transformation strategy and to explore potential initiatives to enhance our financial flexibility and liquidity. We have incurred significant losses and experienced negative operating cash flows for the past several"
+   },
+   {
+    "cik": "1310067",
+    "name": "SEARS HOLDINGS CORP",
+    "filing_date": "2018-03-23",
+    "section": "mda",
+    "char_start": 63000,
+    "char_end": 64200,
+    "score": 0.0965,
+    "quote": "ing current portion: Notes, term loan and debentures outstanding 3,145 4,018 Capitalized lease obligations 72 145 Total borrowings $ 4,132 $ 4,163 47 We fund our peak sales season working capital needs through our domestic revolving credit facility and commercial paper markets and secured short-term debt. millions 2017 2016 Secured borrowings: Maximum daily amount outstanding during the period $ 799 $ 1,150 Average amount outstanding during the period 374 334 Amount outstanding at period-end 271 — Weighted average interest rate 6.2 % 4.6 % Unsecured commercial paper: Maximum daily amount outst"
+   },
+   {
+    "cik": "1051512",
+    "name": "TELEPHONE & DATA SYSTEMS INC /DE/",
+    "filing_date": "2018-02-26",
+    "section": "risk",
+    "char_start": 15000,
+    "char_end": 16200,
+    "score": 0.093,
+    "quote": "urchases and/or the payment of dividends. TDS and its subsidiaries operate capital-intensiv e businesses. Historically, TDS has used internally-generated funds and also has obtained substantial funds from external sources for general corporate purposes. In the past, TDS' existing cash and investment balances, funds available under its revolving credit facilities, funds from other financing sources, including a term loan and other long-term debt, and cash flows from operating, certain investing and financing activities, including sales of assets or businesses, provided sufficient liquidity and "
+   }
+  ]
+ }
+]
