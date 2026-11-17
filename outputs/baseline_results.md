@@ -26,15 +26,3 @@ deduplicated on (CIK, filing year).
   disclosure); control quality is mixed (a few matches are tiny or
   unrelated firms that share an SIC code — see corpus_index.csv).
 
-## Known limitations / practice tasks
-1. Add an API key and run Step 3; then compare LLM ratings against all
-   legs, and audit its evidence quotes (verification is built in).
-2. Scale the corpus: relax to 3 controls per case, add candidate CIKs,
-   and re-run — watch whether the fusion penalty disappears with n.
-3. Add the RAG arm (Step 5): retrieval-selected MD&A excerpts for the
-   LLM vs the current head+middle excerpting; and a small cited-QA demo
-   over the corpus. Keep the index point-in-time by filing date.
-4. Winsorise interest coverage (extreme outliers, e.g. -9137x, come from
-   near-zero interest expense denominators); add Altman Z'' itself as a
-   single-feature benchmark.
-5. Improve control matching: size (assets) proximity in addition to SIC.
